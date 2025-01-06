@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20views&color=0e75b6&style=flat" alt="jagratadeb" /> </p>
 
-- 🌱 I’m currently learning **DSA & Full Stack Web Development**
+- 🌱 I’m currently learning **DSA, JAVA, Problem Solving & Full Stack Web Development**
 
 - 📫 How to reach me **jagratadeb2004@gmail.com**
 
