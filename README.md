@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagrata Deb</h1>
 <h3 align="center">ASPIRING SDE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20views&color=0e75b6&style=flat" alt="jagratadeb" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=PROFILE%20VIEW%20COUNT&color=1b1b1b&style=flat" alt="jagratadeb" /> </p>
 
 - 🌱 I’m currently learning **DSA, JAVA, Problem Solving & Full Stack Web Development**
 
