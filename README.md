@@ -25,4 +25,4 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagratadeb&show_icons=true&title_color=010101&cache_seconds=1000&locale=en&layout=compact" alt="jagratadeb" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagratadeb&show_icons=true&theme=dark&title_color=FFFFFF&cache_seconds=1000&locale=en&layout=compact" alt="jagratadeb" /></p>
