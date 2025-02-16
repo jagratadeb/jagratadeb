@@ -36,9 +36,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagratadeb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jagratadeb&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=github-dark&bg_color=151515&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&hide_title=false&color=FFFFFF&title_color=d47803&line=FFFFFF&point=d47803&radius=16&area_color=151515" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagratadeb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jagratadeb&locale=en&mode=daily&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=github-dark&bg_color=151515&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&hide_title=false&color=FFFFFF&title_color=d47803&line=FFFFFF&point=d47803&radius=16&area_color=151515" height="350" alt="activity-graph graph"  />
 </div>
 
 ###
