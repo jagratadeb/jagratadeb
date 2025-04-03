@@ -23,13 +23,13 @@
 <!--   <a href="mailto:jagratadeb2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center"> 👋 Connect with me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/jagratadeb" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="jagratadeb" height="30" width="40" /></a>
   <a href="https://instagram.com/jagratadeb" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="jagratadeb" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center"> 🧑‍💻Languages and Tools:</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="center">Stars</h3>
+<h3 align="center"> ⭐ Stars </h3>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=onedark" alt=jagratadeb />
 </p>
@@ -60,7 +60,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h3 align="center">Statistics</h3>
+<h2 align="center"> 📊 Statistics </h2>
 <div align="center">
   <a href="https://github.com/jagratadeb">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=2077" height="180em" />
