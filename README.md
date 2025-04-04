@@ -7,11 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20views&color=1b1b1b&style=flat" alt="jagratadeb" />
 </p>
 
+<center>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb&theme=juicyfresh" alt="jagratadeb" />
   </a>
 </p>
+</center>
 
 <p align="center">🌱 I’m currently learning <strong>DSA, JAVA, Problem Solving & Full Stack Web Development</strong></p>
 <p align="center">📫 How to reach me <strong>jagratadeb2004@gmail.com</strong></p>
