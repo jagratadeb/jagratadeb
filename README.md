@@ -26,7 +26,6 @@
 <h2 align="center"> 👋 Connect </h2>
 <p align="center">
   <a href="https://linkedin.com/in/jagratadeb" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="jagratadeb" height="30" width="40" /></a>
-  <a href="https://instagram.com/jagratadeb" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="jagratadeb" height="30" width="40" /></a>
 </p>
 
 <h2 align="center"> 🧑‍💻 Technologies </h2>
