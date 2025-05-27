@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20views&color=1b1b1b&style=flat" alt="jagratadeb" />
 </p>
 
+
 <p align="center">
   <a href="">
     <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb&theme=juicyfresh" alt="jagratadeb" />
@@ -16,16 +17,15 @@
 <p align="center">🌱 I’m currently learning <strong>DSA, JAVA, Problem Solving & Full Stack Web Development</strong></p>
 <p align="center">📫 How to reach me <strong>jagratadeb2004@gmail.com</strong></p>
 
+<h2 align="center"> 👋 Connect </h2>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jagratadeb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/jagratadeb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<!--   <a href="mailto:jagratadeb2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+  <a href="https://stackoverflow.com/users/27010053"><img src="https://img.shields.io/badge/Stackoverflow-FE7A15?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+<!--   <a href="mailto:jagratadeb2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>   -->
 </div>
 
-<h2 align="center"> 👋 Connect </h2>
-<p align="center">
-  <a href="https://linkedin.com/in/jagratadeb" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="jagratadeb" height="30" width="40" /></a>
-</p>
 
 <h2 align="center"> 🧑‍💻 Technologies </h2>
 <p align="center">
@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="center"> ⭐ Stars </h3>
+<h2 align="center"> ⭐ Statistics </h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=onedark" alt=jagratadeb />
 </p>
@@ -58,24 +58,30 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h2 align="center"> 📊 Statistics </h2>
 <div align="center">
   <a href="https://github.com/jagratadeb">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=2077" height="180em" />
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jagratadeb&theme=2077" height="180em" /> -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagratadeb&theme=2077" height="180em" /> -->
-<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jagratadeb&theme=2077" height="180em" /> -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jagratadeb&theme=2077" height="180em" />
+    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagratadeb&theme=2077" height="180em" /> -->
+    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jagratadeb&theme=2077" height="180em" /> -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=algolia" height="180em" />
   </a>
 </div>
 
 <p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jagratadeb&limit=10&theme=react&combine_all_yearly_contributions=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h2 align="center">⚡Activity Graph:</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 <p align="center">
