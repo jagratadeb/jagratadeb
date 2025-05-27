@@ -74,11 +74,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=dark" alt="jagratadeb" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=react" alt="jagratadeb" />
-</p>
-
-
 <!-- Profile Summary Cards -->
 <h3 align="center">📊 Profile Summary</h3>
 <hr>
@@ -86,14 +81,6 @@
   <a href="https://github.com/jagratadeb">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=2077" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=algolia" height="180em" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/jagratadeb">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=2077" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=react" height="180em" />
   </a>
 </p>
 
