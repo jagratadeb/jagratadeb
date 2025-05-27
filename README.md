@@ -61,16 +61,12 @@
 <div align="center">
   <a href="https://github.com/jagratadeb">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=2077" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jagratadeb&theme=2077" height="180em" />
+    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jagratadeb&theme=2077" height="180em" /> -->
     <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagratadeb&theme=2077" height="180em" /> -->
     <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jagratadeb&theme=2077" height="180em" /> -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=algolia" height="180em" />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jagratadeb&limit=10&theme=react&combine_all_yearly_contributions=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
@@ -80,6 +76,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+<!-- Random Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
