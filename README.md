@@ -8,7 +8,7 @@
 <h3 align="center">ASPIRING SDE</h3>
 
 <!-- About Me -->
-<h2 align="center">🙋‍♂️ About Me</h2>
+<h2 align="center">🪪About Me</h2>
 <p align="center">
   I'm a passionate developer interested in Data Structures, Algorithms, and Full Stack Web Development.<br>
   I love building projects, solving problems, and learning new technologies.
@@ -62,15 +62,6 @@
 <h2 align="center">⭐ Statistics</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=onedark" alt="jagratadeb" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=react" alt="jagratadeb" />
-</p>
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=dark" alt="jagratadeb" />
 </p>
 
 <p align="center">
