@@ -65,14 +65,14 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=dark" alt="jagratadeb" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=onedark" alt="jagratadeb" />
 </p>
 
 <!-- Activity Streak -->
 <h3 align="center">🔥 Activity Streak</h3>
 <hr>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=dark" alt="jagratadeb" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=onedark" alt="jagratadeb" />
 </p>
 
 <!-- Profile Summary Cards -->
