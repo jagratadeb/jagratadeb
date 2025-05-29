@@ -61,18 +61,18 @@
 <!-- Statistics -->
 <h2 align="center">⭐ Statistics</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=onedark" alt="jagratadeb" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=dark" alt="jagratadeb" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=onedark" alt="jagratadeb" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=dark" alt="jagratadeb" />
 </p>
 
 <!-- Activity Streak -->
 <h3 align="center">🔥 Activity Streak</h3>
 <hr>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=onedark" alt="jagratadeb" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=dark" alt="jagratadeb" />
 </p>
 
 <!-- Profile Summary Cards -->
@@ -80,8 +80,8 @@
 <hr>
 <p align="center">
   <a href="https://github.com/jagratadeb">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=onedark" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=onedark" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=dark" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=dark" height="180em" />
   </a>
 </p>
 
@@ -90,7 +90,7 @@
 <h3 align="center">📈 Activity Graph</h3>
 <hr>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
 </p>
 
 <!-- Quote -->
