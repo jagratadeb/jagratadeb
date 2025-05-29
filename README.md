@@ -81,7 +81,7 @@
 <p align="center">
   <a href="https://github.com/jagratadeb">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=2077" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=algolia" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=onedark" height="180em" />
   </a>
 </p>
 
@@ -90,7 +90,7 @@
 <h3 align="center">📈 Activity Graph</h3>
 <hr>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=onedark" />
 </p>
 
 <!-- Quote -->
