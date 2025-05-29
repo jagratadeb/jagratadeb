@@ -80,8 +80,8 @@
 <hr>
 <p align="center">
   <a href="https://github.com/jagratadeb">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=react-dark" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=react-dark" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=react" height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=react" height="180em" />
   </a>
 </p>
 
