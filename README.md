@@ -93,6 +93,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
 </p>
 
+<!-- WakaTime Chart -->
+<!--
+ <h3 align="center">⌨️ Time Spent Coding (via WakaTime)</h3>
+<hr>
+<p align="center">
+  <img style="width:65%" src="https://wakatime.com/share/@jagratadeb/f7020aba-0e83-4802-936f-fd268be0b01f.svg" alt="WakaTime Stats" />
+</p>
+-->
+
 <!-- Quote -->
 <h3 align="center">💡 Quote</h3>
 <hr>
