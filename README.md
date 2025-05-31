@@ -93,14 +93,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
 </p>
 
+
 <!-- WakaTime Chart -->
-<!--
  <h3 align="center">⌨️ Time Spent Coding (via WakaTime)</h3>
 <hr>
 <p align="center">
-  <img style="width:65%" src="https://wakatime.com/share/@jagratadeb/f7020aba-0e83-4802-936f-fd268be0b01f.svg" alt="WakaTime Stats" />
+  <img style="width:65%" src="https://wakatime.com/share/@jagratadeb/6e4ed51c-12d1-4828-96f6-e42c278c8086.svg" alt="WakaTime Stats" />
 </p>
--->
+
+
+<!-- <figure><embed src="https://wakatime.com/share/@jagratadeb/458951d8-f102-4608-aa37-87df154d9039.svg"></embed></figure> -->
 
 <!-- Quote -->
 <h3 align="center">💡 Quote</h3>
