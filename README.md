@@ -98,7 +98,7 @@
  <h3 align="center">⌨️ Time Spent Coding (via WakaTime)</h3>
 <hr>
 <p align="center">
-  <img style="width:65%" src="https://wakatime.com/share/@jagratadeb/6e4ed51c-12d1-4828-96f6-e42c278c8086.svg" alt="WakaTime Stats" />
+  <img src="https://wakatime.com/share/@jagratadeb/31698cde-49cb-4ded-a382-c9caa679746d.svg" alt="WakaTime Stats" />
 </p>
 
 
