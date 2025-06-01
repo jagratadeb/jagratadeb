@@ -10,9 +10,10 @@
 <!-- About Me -->
 <h2 align="center">🪪 About Me</h2>
 <p align="center">
-  I'm a passionate developer interested in Data Structures, Algorithms, and Full Stack Web Development.<br>
-  I love building projects, solving problems, and learning new technologies.
+  I am an aspiring developer, currently exploring Data Structures & Algorithms, Web Development, and High-Level System Design.<br>
+  I enjoy solving complex problems and continuously expanding my knowledge in the field of technology.
 </p>
+
 
 <!-- Education -->
 <h2 align="center">🎓 Education</h2>
