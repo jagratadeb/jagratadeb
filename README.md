@@ -96,10 +96,13 @@
 
 
 <!-- WakaTime Chart -->
- <h3 align="center">⌨️ Time Spent Coding (via WakaTime)</h3>
+<h3 align="center">⌨️ Time Spent Coding (via WakaTime)</h3>
 <hr>
 <p align="center">
   <img src="https://wakatime.com/share/@jagratadeb/31698cde-49cb-4ded-a382-c9caa679746d.svg" alt="WakaTime Stats" />
+</p>
+<p align="center" style="font-size: 1.1em; font-weight: bold; color: #2b6cb0;">
+  📅 Tracking stats since <u>Friday, 30 May 2025</u>
 </p>
 
 
