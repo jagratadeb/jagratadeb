@@ -100,7 +100,7 @@
 <hr>
 <p align="center"><strong>📅 Stats are being tracked since Friday, 30 May 2025</strong></p>
 <p align="center">
-  <img src="https://wakatime.com/share/@jagratadeb/31698cde-49cb-4ded-a382-c9caa679746d.svg" alt="WakaTime Stats" />
+  <img src="https://wakatime.com/share/@jagratadeb/9212c97e-6cc7-44e2-a8f7-cf4c8732a09c.svg" alt="WakaTime Stats" />
 </p>
 
 <!-- <figure><embed src="https://wakatime.com/share/@jagratadeb/458951d8-f102-4608-aa37-87df154d9039.svg"></embed></figure> -->
