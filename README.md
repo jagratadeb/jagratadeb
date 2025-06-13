@@ -7,6 +7,10 @@
 <h1 align="center">Hi 👋, I'm Jagrata Deb</h1>
 <h3 align="center">ASPIRING SDE</h3>
 
+<!-- About -->
+<p align="center"><strong>🌱 DSA, Problem Solving, System Design (HLD) & Web Development</strong></p>
+<p align="center"><strong>📫 jagratadeb2004@gmail.com</strong></p>
+
 <!-- About Me -->
 <h2 align="center">🪪 About Me</h2>
 <p align="center">
@@ -33,10 +37,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb&theme=juicyfresh" alt="jagratadeb" />
   </a>
 </p>
-
-<!-- About -->
-<p align="center"><strong>🌱 I’m currently learning DSA, JAVA, Problem Solving & Full Stack Web Development</strong></p>
-<p align="center"><strong>📫 How to reach me: jagratadeb2004@gmail.com</strong></p>
 
 <!-- Connect -->
 <h2 align="center">👋 Connect</h2>
