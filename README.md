@@ -73,6 +73,7 @@
 <h2 align="center">🚀 Featured Repositories</h2>
 <p align="center">
   <a href="https://github.com/jagratadeb/LearnDSA"><img src="https://img.shields.io/badge/LearnDSA-REPOSITORY-black?style=for-the-badge" /></a> <a href="https://github.com/jagratadeb/LearnJS"><img src="https://img.shields.io/badge/LearnJS-REPOSITORY-F7DF1E?style=for-the-badge" /></a>
+  <a href="https://github.com/jagratadeb/LearnPython"><img src="https://img.shields.io/badge/Python-REPOSITORY-3776AB?style=for-the-badge" /></a>
 </p>
 
 <!-- Statistics -->
