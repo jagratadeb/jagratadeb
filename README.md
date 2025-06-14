@@ -7,6 +7,11 @@
 <h1 align="center">Hi 👋, I'm Jagrata Deb</h1>
 <h3 align="center">ASPIRING SDE</h3>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20views&color=1b1b1b&style=flat" alt="jagratadeb" />
+</p>
+
 <!-- About -->
 <p align="center"><strong>🌱 DSA, Problem Solving, System Design (HLD) & Web Development</strong></p>
 <p align="center"><strong>📫 jagratadeb2004@gmail.com</strong></p>
@@ -14,9 +19,22 @@
 <!-- About Me -->
 <h2 align="center">🪪 About Me</h2>
 <p align="center">
-  I am an aspiring developer, currently exploring Data Structures & Algorithms, Web Development, and High-Level System Design.<br>
-  I enjoy solving complex problems and continuously expanding my knowledge in the field of technology.
+  I am an aspiring developer, currently exploring Data Structures & Algorithms, Web Development, High-Level System Design & exploring Machine Learning.<br>
+  I enjoy solving problems and continuously expanding my knowledge in the field of technology.
 </p>
+
+<h2 align="left">🔍 Areas of Focus</h2>
+<ul>
+  <li>🧩 Data Structures & Algorithms (DSA)</li>
+  <li>🧠 Problem Solving</li>
+</ul>
+
+<h2 align="left">📚 Learning</h2>
+<ul>
+  <li>🏗️ System Design (HLD)</li>
+  <li>🤖 Machine Learning (including Deep Learning and NLP), with applications in Data Science</li>
+  <li>🌐 Web Development</li>
+</ul>
 
 
 <!-- Education -->
@@ -26,12 +44,9 @@
   KIIT University, 2023-2027
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20views&color=1b1b1b&style=flat" alt="jagratadeb" />
-</p>
 
 <!-- Trophies -->
+<h2 align="center">🏆 Trophies</h2>
 <p align="center">
   <a href="https://github.com/jagratadeb">
     <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb&theme=juicyfresh" alt="jagratadeb" />
@@ -70,14 +85,14 @@
 </p>
 
 <!-- Activity Streak -->
-<h3 align="center">🔥 Activity Streak</h3>
+<h2 align="center">🔥 Activity Streak</h2>
 <hr>
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=dark" alt="jagratadeb" />
 </p>
 
 <!-- Profile Summary Cards -->
-<h3 align="center">📊 Profile Summary</h3>
+<h2 align="center">📊 Profile Summary</h2>
 <hr>
 <p align="center">
   <a href="https://github.com/jagratadeb">
@@ -88,7 +103,7 @@
 
 
 <!-- Activity Graph -->
-<h3 align="center">📈 Activity Graph</h3>
+<h2 align="center">📈 Activity Graph</h2>
 <hr>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
@@ -96,7 +111,7 @@
 
 
 <!-- WakaTime Chart -->
-<h3 align="center">⌨️ Time Spent Coding (via WakaTime)</h3>
+<h2 align="center">⌨️ Time Spent Coding (via WakaTime)</h2>
 <hr>
 <p align="center"><strong>📅 Stats are being tracked since Friday, 30 May 2025</strong></p>
 <p align="center">
@@ -106,7 +121,7 @@
 <!-- <figure><embed src="https://wakatime.com/share/@jagratadeb/458951d8-f102-4608-aa37-87df154d9039.svg"></embed></figure> -->
 
 <!-- Quote -->
-<h3 align="center">💡 Quote</h3>
+<h2 align="center">💡 Quote</h2>
 <hr>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
