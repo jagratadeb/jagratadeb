@@ -32,7 +32,7 @@
 <h2 align="left">📚 Learning</h2>
 <ul>
   <li>🏗️ System Design (HLD)</li>
-  <li>🤖 Machine Learning (including Deep Learning and NLP), with applications in Data Science</li>
+  <!-- <li>🤖 Machine Learning (including Deep Learning and NLP), with applications in Data Science</li> -->
   <li>🌐 Web Development</li>
 </ul>
 
@@ -53,6 +53,14 @@
   </a>
 </p>
 
+
+<!-- Skills Table -->
+<h2 align="center">🛠️ Skills & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,github,git,figma,vscode,markdown" />
+</p>
+
+
 <!-- Connect -->
 <h2 align="center">👋 Connect</h2>
 <p align="center">
@@ -60,13 +68,6 @@
   <a href="https://github.com/jagratadeb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/27010053" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-FE7A15?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
-
-<!-- Skills Table -->
-<h2 align="center">🛠️ Skills & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,mysql,github,git,figma,vscode,markdown" />
-</p>
-
 
 <!-- Repositories -->
 <h2 align="center">🚀 Featured Repositories</h2>
@@ -86,14 +87,12 @@
 
 <!-- Activity Streak -->
 <h2 align="center">🔥 Activity Streak</h2>
-<hr>
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=dark" alt="jagratadeb" />
 </p>
 
 <!-- Profile Summary Cards -->
 <h2 align="center">📊 Profile Summary</h2>
-<hr>
 <p align="center">
   <a href="https://github.com/jagratadeb">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=react" height="180em" />
@@ -104,7 +103,6 @@
 
 <!-- Activity Graph -->
 <h2 align="center">📈 Activity Graph</h2>
-<hr>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
 </p>
@@ -112,17 +110,13 @@
 
 <!-- WakaTime Chart -->
 <h2 align="center">⌨️ Time Spent Coding (via WakaTime)</h2>
-<hr>
 <p align="center"><strong>📅 Stats are being tracked since Friday, 30 May 2025</strong></p>
 <p align="center">
   <img src="https://wakatime.com/share/@jagratadeb/9212c97e-6cc7-44e2-a8f7-cf4c8732a09c.svg" alt="WakaTime Stats" />
 </p>
 
-<!-- <figure><embed src="https://wakatime.com/share/@jagratadeb/458951d8-f102-4608-aa37-87df154d9039.svg"></embed></figure> -->
-
 <!-- Quote -->
 <h2 align="center">💡 Quote</h2>
-<hr>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
