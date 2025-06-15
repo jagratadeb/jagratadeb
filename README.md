@@ -23,13 +23,13 @@
   I enjoy solving problems and continuously expanding my knowledge in the field of technology.
 </p>
 
-<h2 align="left">🔍 Areas of Focus</h2>
+<h2 align="center">🔍 Areas of Focus</h2>
 <ul>
   <li>🧩 Data Structures & Algorithms (DSA)</li>
   <li>🧠 Problem Solving</li>
 </ul>
 
-<h2 align="left">📚 Learning</h2>
+<h2 align="center">📚 Learning</h2>
 <ul>
   <li>🤖 Machine Learning (including Deep Learning and NLP), with applications in Data Science</li>
   <li>🏗️ System Design (HLD)</li>
