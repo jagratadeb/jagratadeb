@@ -31,8 +31,8 @@
 
 <h2 align="left">📚 Learning</h2>
 <ul>
-  <li>🏗️ System Design (HLD)</li>
   <li>🤖 Machine Learning (including Deep Learning and NLP), with applications in Data Science</li>
+  <li>🏗️ System Design (HLD)</li>
   <li>🌐 Web Development</li>
 </ul>
 
