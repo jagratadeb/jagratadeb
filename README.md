@@ -79,11 +79,11 @@
 <!-- Statistics -->
 <h2 align="center">⭐ Statistics</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=dark" alt="jagratadeb" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=dark" alt="jagratadeb" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=dark" alt="jagratadeb" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=dark" alt="jagratadeb" />
 </p>
 
 <!-- Activity Streak -->
