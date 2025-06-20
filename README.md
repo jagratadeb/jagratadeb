@@ -40,7 +40,7 @@
 <!-- Education -->
 <h2 align="center">🎓 Education</h2>
 <p align="center">
-  <strong>Bachelor of Technology (B.Tech), Computer Science</strong><br>
+  <strong>Bachelor of Technology (B.Tech), Computer Science & Engineering</strong><br>
   KIIT University, 2023-2027
 </p>
 
