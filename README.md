@@ -58,6 +58,7 @@
 <h2 align="center">🛠️ Skills & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,github,anaconda,git,figma,vscode,markdown" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,mysql,github,anaconda,git,figma,vscode,markdown" />
 </p>
 
 
