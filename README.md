@@ -31,7 +31,7 @@
     <img style="width:250px" src="https://img.shields.io/badge/Duolingo%20(German)-FFD700.svg?style=for-the-badge&logo=duolingo&logoColor=black" alt="Duolingo Badge">
   </a>
   <br/>
-  <b style="color:white;">LEVEL: Early A1</b>
+  <b style="color:white;">Level: Early A1</b>
 </p>
 
 <h2 align="center">🔍 Areas of Focus</h2>
