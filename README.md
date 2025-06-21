@@ -23,13 +23,13 @@
   I enjoy solving problems and continuously expanding my knowledge in the field of technology.
 </p>
 
-<div align="center" style="padding: 8px 12px; border-radius: 10px; background: linear-gradient(90deg, #fff 0%, #e0ffe6 100%); width: max-content; margin: 10px auto 12px auto; box-shadow: 0 1px 6px rgba(76,199,48,0.10); border: 1px solid #4DC730;">
+<p align="center">
   <a href="https://www.duolingo.com/profile/iamJagrataDeb" target="_blank">
     <img src="https://img.shields.io/badge/Duolingo%20(German)-%234DC730.svg?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Badge" height="32">
   </a>
   <br/>
-  <span style="font-weight: 700; color: #226622; font-size: 0.98em; letter-spacing: 0.2px;">Early A1 Level</span>
-</div>
+  <b style="color: #226622; font-size: 0.98em; letter-spacing: 0.2px;">Early A1 Level</b>
+</p>
 
 <h2 align="center">🔍 Areas of Focus</h2>
 <ul>
