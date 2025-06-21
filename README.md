@@ -6,10 +6,13 @@
 <!-- Title and Subtitle -->
 <h1 align="center">Hi 👋, I'm Jagrata Deb</h1>
 <h3 align="center">ASPIRING SDE</h3>
+<p align="center">
+  <b>📍 Bhubaneswar, Odisha, India</b>
+</p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20views&color=1b1b1b&style=flat" alt="jagratadeb" />
+  <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20Views&color=1b1b1b&style=flat" alt="jagratadeb" />
 </p>
 
 <!-- About -->
@@ -19,16 +22,16 @@
 <!-- About Me -->
 <h2 align="center">🪪 About Me</h2>
 <p align="center">
-  I am an aspiring developer, currently exploring Data Structures & Algorithms, Web Development, High-Level System Design & exploring Machine Learning.<br>
+  I am an aspiring developer, currently exploring Data Structures & Algorithms, Web Development, High-Level System Design & exploring Machine Learning.
   I enjoy solving problems and continuously expanding my knowledge in the field of technology.
 </p>
 
 <p align="center">
   <a href="https://www.duolingo.com/profile/iamJagrataDeb" target="_blank">
-    <img src="https://img.shields.io/badge/Duolingo%20(German)-%234DC730.svg?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Badge" height="32">
+    <img style="width:250px" src="https://img.shields.io/badge/Duolingo%20(German)-FFD700.svg?style=for-the-badge&logo=duolingo&logoColor=black" alt="Duolingo Badge">
   </a>
   <br/>
-  <b style="color: #226622; font-size: 0.98em; letter-spacing: 0.2px;">Early A1 Level</b>
+  <b style="color:white;">LEVEL: Early A1</b>
 </p>
 
 <h2 align="center">🔍 Areas of Focus</h2>
