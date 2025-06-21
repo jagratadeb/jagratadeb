@@ -67,7 +67,7 @@
   <a href="https://www.linkedin.com/in/jagratadeb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/jagratadeb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/27010053" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-FE7A15?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  <a href="https://www.duolingo.com/profile/iamJagrataDeb" target="_blank"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
+  <a href="https://www.duolingo.com/profile/iamJagrataDeb" target="_blank"><img src="https://img.shields.io/badge/Duolingo (German) -%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
   </a>
 </p>
 
