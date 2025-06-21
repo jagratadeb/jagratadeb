@@ -23,6 +23,13 @@
   I enjoy solving problems and continuously expanding my knowledge in the field of technology.
 </p>
 
+<div align="center" style="padding: 8px 12px; border-radius: 10px; background: linear-gradient(90deg, #fff 0%, #e0ffe6 100%); width: max-content; margin: 10px auto 12px auto; box-shadow: 0 1px 6px rgba(76,199,48,0.10); border: 1px solid #4DC730;">
+  <a href="https://www.duolingo.com/profile/iamJagrataDeb" target="_blank">
+    <img style="border-radius: 5px; box-shadow: 0 1px 4px rgba(76,199,48,0.10); margin-bottom: 5px; background: #fff; padding: 1px 2px; border: 1px solid #4DC730; height: 32px;" src="https://img.shields.io/badge/Duolingo%20(German)-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo Badge">
+  </a>
+  <div style="font-weight: 700; color: #226622; margin-top: 4px; font-size: 0.98em; letter-spacing: 0.2px; text-shadow: 0 1px 2px #fff8;">Early A1 Level</div>
+</div>
+
 <h2 align="center">🔍 Areas of Focus</h2>
 <ul>
   <li>🧩 Data Structures & Algorithms (DSA)</li>
@@ -67,7 +74,6 @@
   <a href="https://www.linkedin.com/in/jagratadeb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/jagratadeb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/27010053" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-FE7A15?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  <a href="https://www.duolingo.com/profile/iamJagrataDeb" target="_blank"><img src="https://img.shields.io/badge/Duolingo (German) -%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
   </a>
 </p>
 
