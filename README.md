@@ -25,9 +25,10 @@
 
 <div align="center" style="padding: 8px 12px; border-radius: 10px; background: linear-gradient(90deg, #fff 0%, #e0ffe6 100%); width: max-content; margin: 10px auto 12px auto; box-shadow: 0 1px 6px rgba(76,199,48,0.10); border: 1px solid #4DC730;">
   <a href="https://www.duolingo.com/profile/iamJagrataDeb" target="_blank">
-    <img style="border-radius: 5px; box-shadow: 0 1px 4px rgba(76,199,48,0.10); margin-bottom: 5px; background: #fff; padding: 1px 2px; border: 1px solid #4DC730; height: 32px;" src="https://img.shields.io/badge/Duolingo%20(German)-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo Badge">
+    <img src="https://img.shields.io/badge/Duolingo%20(German)-%234DC730.svg?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Badge" height="32">
   </a>
-  <div style="font-weight: 700; color: #226622; margin-top: 4px; font-size: 0.98em; letter-spacing: 0.2px; text-shadow: 0 1px 2px #fff8;">Early A1 Level</div>
+  <br/>
+  <span style="font-weight: 700; color: #226622; font-size: 0.98em; letter-spacing: 0.2px;">Early A1 Level</span>
 </div>
 
 <h2 align="center">🔍 Areas of Focus</h2>
