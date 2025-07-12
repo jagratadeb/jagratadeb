@@ -5,7 +5,7 @@
 
 <!-- Title and Subtitle -->
 <h1 align="center">Hi 👋, I'm Jagrata Deb</h1>
-<h3 align="center">ASPIRING SDE</h3>
+<h3 align="center">ASPIRING SOFTWARE DEVELOPER</h3>
 <p align="center">
   <b>📍 Bhubaneswar, Odisha, India</b>
 </p>
