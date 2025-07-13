@@ -42,6 +42,7 @@
 
 <h2 align="center">📚 Learning</h2>
 <ul>
+  <li>🖥️ Software Engineering</li>
   <li>🤖 Machine Learning (including Deep Learning and NLP), with applications in Data Science</li>
   <li>🏗️ System Design (HLD)</li>
   <li>🌐 Web Development</li> 
