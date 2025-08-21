@@ -69,7 +69,7 @@
 <!-- Skills Table -->
 <h2 align="center">🛠️ Skills & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,dart,python,anaconda,sqlite,html,css,mysql,github,git,figma,vscode,markdown&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,anaconda,python,sqlite,html,css,mysql,github,git,dart,figma,vscode,markdown&perline=7"/>
 </p>
 
 
