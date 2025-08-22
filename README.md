@@ -22,10 +22,8 @@
   KIIT University, 2023-2027
 </p>
 <br>
-<p align="center"><strong>📫 jagratadeb2004@gmail.com</strong></p>
-<br>
-
 <!-- Contact -->
+<p align="center"><strong>📫 jagratadeb2004@gmail.com</strong></p>
 
 
 <!-- About Me -->
