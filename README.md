@@ -22,9 +22,12 @@
   KIIT University, 2023-2027
 </p>
 
+<br>
+
 <!-- About -->
 <p align="center"><strong>🌱 DSA, Problem Solving, System Design (HLD) & Web Development</strong></p>
 <p align="center"><strong>📫 jagratadeb2004@gmail.com</strong></p>
+
 
 <!-- About Me -->
 <h2 align="center">🪪 About Me</h2>
