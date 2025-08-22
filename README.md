@@ -15,6 +15,13 @@
   <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20Views&color=1b1b1b&style=flat" alt="jagratadeb" />
 </p>
 
+<!-- Education -->
+<h2 align="center">🎓 Education</h2>
+<p align="center">
+  <strong>Bachelor of Technology (B.Tech), Computer Science & Engineering</strong><br>
+  KIIT University, 2023-2027
+</p>
+
 <!-- About -->
 <p align="center"><strong>🌱 DSA, Problem Solving, System Design (HLD) & Web Development</strong></p>
 <p align="center"><strong>📫 jagratadeb2004@gmail.com</strong></p>
@@ -47,14 +54,6 @@
   <li>🏗️ System Design (HLD)</li>
   <li>🌐 Web Development</li> 
 </ul>
-
-
-<!-- Education -->
-<h2 align="center">🎓 Education</h2>
-<p align="center">
-  <strong>Bachelor of Technology (B.Tech), Computer Science & Engineering</strong><br>
-  KIIT University, 2023-2027
-</p>
 
 
 <!-- Skills Table -->
