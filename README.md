@@ -55,7 +55,6 @@
   <li>🌐 Web Development</li> 
 </ul>
 
-<img src = "https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh">
 
 <!-- Skills Table -->
 <h2 align="center">🛠️ Skills & Tools</h2>
@@ -107,7 +106,7 @@
 <h2 align="center">🏆 Trophies</h2>
 <p align="center">
   <a href="https://github.com/jagratadeb">
-    <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb&theme=juicyfresh" alt="jagratadeb" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb&theme=juicyfresh" alt="Not currently visible due to some error" />
   </a>
 </p>
 -->
