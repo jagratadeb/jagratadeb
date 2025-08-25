@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+n<!-- Banner Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 </p>
@@ -114,7 +114,7 @@
 <h2 align="center">🏆 Trophies</h2>
 <p align="center">
   <a href="https://github.com/jagratadeb">
-    <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb" alt="jagratadeb" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb" alt="Not currently visible due to some error" />
   </a>
 </p>
 
