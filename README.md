@@ -55,6 +55,7 @@
   <li>🌐 Web Development</li> 
 </ul>
 
+<img src = "https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh">
 
 <!-- Skills Table -->
 <h2 align="center">🛠️ Skills & Tools</h2>
