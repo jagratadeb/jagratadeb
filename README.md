@@ -111,12 +111,13 @@ n<!-- Banner Image -->
 </p>
 -->
 
-<h2 align="center">🏆 Trophies</h2>
+<!-- <h2 align="center">🏆 Trophies</h2>
 <p align="center">
   <a href="https://github.com/jagratadeb">
     <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb" alt="Not currently visible due to some error" />
   </a>
 </p>
+-->
 
 <!-- Certifications -->
 <h2 align="center">Certifications</h2>
