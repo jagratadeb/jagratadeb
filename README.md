@@ -102,14 +102,13 @@
   </div>
 </p>
 
-<!-- Trophies 
+<!-- Trophies -->
 <h2 align="center">🏆 Trophies</h2>
 <p align="center">
   <a href="https://github.com/jagratadeb">
     <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb&theme=juicyfresh" alt="Not currently visible due to some error" />
   </a>
 </p>
--->
 
 <!-- <h2 align="center">🏆 Trophies</h2>
 <p align="center">
