@@ -146,7 +146,7 @@
 <!-- Statistics -->
 <h2 align="center">⭐ Statistics</h2>
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=dark" alt="jagratadeb" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=dark&langs_count=20&" alt="jagratadeb" />
 </p>
 
 <p align="center">
