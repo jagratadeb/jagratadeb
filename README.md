@@ -57,67 +57,91 @@
 
 
 <!-- Skills Table -->
-<h2 align="center">🛠️ Skills & Tools</h2>
-<h3 align="center">Languages</h3>
+<h2 align="center">🛠️ Skills & Technologies</h2>
+
+<h3 align="center">📝 Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" title="C" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" title="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" title="JavaScript" />
 </p>
 
-<h3 align="center">Web Development & Tools</h3>
+<h3 align="center">🌐 Web Development</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo" title="Express.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongo logo" />
 </p>
 
-<h3 align="center">AIML & Data</h3>
+
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="sqlite logo" title="SQLite" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Matplotlib_icon.svg" height="45" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" height="45" alt="seaborn logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda logo" />
 </p>
 
-<h3 align="center">Other / Tools</h3>
+<h3 align="center">🤖 AI/ML & Data Science</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="pytorch logo" title="PyTorch" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo" title="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo" title="Pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45" alt="scikit-learn logo" title="Scikit-learn" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="sqlite logo" />
+</p>
+
+<h3 align="center">📊 Data Visualization</h3>
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Matplotlib_icon.svg" height="45" alt="matplotlib logo" title="Matplotlib" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo" />
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" height="45" alt="seaborn logo" title="Seaborn" />
+  <img width="12" />
+</p>
+
+<h3 align="center">✅ Version Control</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo" title="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" title="Git" />
+  <img width="12" />
+</p>
+
+<h3 align="center">🔧 Development Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" title="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo" title="Jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda logo" title="Anaconda" />
+</p>
+
+<h3 align="center">🎨 Design Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo" title="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo" title="Canva" />
+  <img width="12" />
 </p>
 
 <!-- Trophies -->
@@ -128,13 +152,6 @@
   </a>
 </p>
 
-<!-- <h2 align="center">🏆 Trophies</h2>
-<p align="center">
-  <a href="https://github.com/jagratadeb">
-    <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb" alt="Not currently visible due to some error" />
-  </a>
-</p>
--->
 
 <!-- Certifications -->
 <h2 align="center">Certifications</h2>
@@ -154,27 +171,39 @@
   </a>
 </p>
 
-<!-- Repositories -->
-<h2 align="center">🚀 Featured Repositories</h2>
+<!-- Projects & Repositories -->
+<h2 align="center">🚀 Projects & Repositories</h2>
+
+<!-- Learning Resources -->
+<h3 align="center">📚 Learning Resources</h3>
 <p align="center">
-  <a href="https://github.com/jagratadeb/LearnDSA"><img src="https://img.shields.io/badge/LearnDSA-REPOSITORY-black?style=for-the-badge" /></a> <a href="https://github.com/jagratadeb/LearnJS"><img src="https://img.shields.io/badge/LearnJS-REPOSITORY-F7DF1E?style=for-the-badge" /></a>
-  <a href="https://github.com/jagratadeb/LearnPython"><img src="https://img.shields.io/badge/LearnPython-REPOSITORY-3776AB?style=for-the-badge" /></a>
+  <a href="https://github.com/jagratadeb/LearnDSA">
+    <img src="https://img.shields.io/badge/LearnDSA-Data_Structures_&_Algorithms-black?style=for-the-badge&logo=github" />
+  </a>
+  <br/>
+  <a href="https://github.com/jagratadeb/LearnJS">
+    <img src="https://img.shields.io/badge/LearnJS-JavaScript_Programming-F7DF1E?style=for-the-badge&logo=javascript" />
+  </a>
+  <br/>
+  <a href="https://github.com/jagratadeb/LearnPython">
+    <img src="https://img.shields.io/badge/LearnPython-Python_Programming-3776AB?style=for-the-badge&logo=python" />
+  </a>
 </p>
 
 <!-- Statistics -->
-<h2 align="center">⭐ Statistics</h2>
+<h2 align="center">⭐ GitHub Statistics</h2>
+
+<!-- GitHub Stats Cards -->
 <p align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=dark&langs_count=20&" alt="jagratadeb" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=react&langs_count=10" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=dark" alt="jagratadeb" />
-</p>
 
 <!-- Activity Streak -->
 <h2 align="center">🔥 Activity Streak</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=dark" alt="jagratadeb" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=react" alt="jagratadeb" />
 </p>
 
 <!-- Profile Summary Cards -->
