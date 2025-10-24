@@ -195,8 +195,7 @@
 
 <!-- GitHub Stats Cards -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=dark" alt="jagratadeb" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=react" alt="jagratadeb" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=react&langs_count=10" alt="Most Used Languages" />
 </p>
 
