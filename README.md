@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://www.duolingo.com/profile/iamJagrataDeb" target="_blank">
-    <img style="width:250px" src="https://img.shields.io/badge/Duolingo%20(German)-FFD700.svg?style=for-the-badge&logo=duolingo&logoColor=black" alt="Duolingo Badge">
+    <img style="width:250px" src="https://img.shields.io/badge/Duolingo%20(German)-58CC02.svg?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Badge">
   </a>
   <br/>
   <b style="color:white;">Language Level: Early A1</b>
