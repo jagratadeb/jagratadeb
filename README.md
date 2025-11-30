@@ -56,9 +56,9 @@
 
 ## **📝 Programming Languages**
 
-| C++ | C | Java | Python | JavaScript |
+| C | C++ | Java | Python | JavaScript |
 |---|-----|------|--------|------------|
-| <img src="https://skillicons.dev/icons?i=cpp" width="60"/> | <img src="https://skillicons.dev/icons?i=c" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> |
+| <img src="https://pngimg.com/uploads/letter_c/letter_c_PNG22.png" width="60"/> | <img src="https://skillicons.dev/icons?i=cpp" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> |
 
 ---
 
