@@ -82,14 +82,6 @@
 |------------|----------|
 | <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Matplotlib_icon.svg" width="60"/> | <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="60"/> |
 
----
-
-## 🌐 **Web Development**
-
-| HTML5 | CSS3 | Tailwind | JavaScript | React | Flask | Streamlit | Jinja |
-|-------|------|----------|------------|--------|--------|-----------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> | <img src="https://freepngimg.com/download/icon/social_media/9215-tailwind-css.png" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=flask" width="60"/> |<img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> |<img src="https://saidvandeklundert.net/img/jinja_logo.png" width="60"/> |
-
 
 ---
 
@@ -171,6 +163,7 @@
 <h2 align="center">🚀 Projects & Repositories</h2>
 
 <h3 align="center">📚 Learning Resources</h3>
+
 <p align="center">
   <a href="https://github.com/jagratadeb/LearnDSA">
     <img src="https://img.shields.io/badge/LearnDSA-Data_Structures_&_Algorithms-black?style=for-the-badge&logo=github" />
