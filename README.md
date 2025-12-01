@@ -171,10 +171,10 @@
 ### 🎯 LearnDSA  
 <img src="https://img.shields.io/badge/Data Structure & Algorithms-181717?style=flat&logo=github&logoColor=white"/>
 
-> 📘 A structured, beginner-friendly repository for learning  
-> Data Structures & Algorithms with simple explanations and clean C/C++ implementations.
-> Covers arrays, linked lists, stacks, queues, trees,
-> graphs, sorting, searching, greedy algorithms, dynamic programming.
+📘 A structured, repository for learning Data Structures & Algorithms with simple explanations and clean C/C++ implementations.
+
+Covers arrays, linked lists, stacks, queues, trees,
+graphs, sorting, searching, greedy algorithms, dynamic programming.
 
 > Visit the repository <a href="https://github.com/jagratadeb/LearnDSA" target="_blank">LearnDSA</a>
 
@@ -187,9 +187,7 @@
 ### ⚡ LearnJS  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 
-> 🟨 Covers all essential JavaScript concepts — ES6, DOM,  
-> async programming.
-> Contains multiple mini projects.
+🟨 Covers all essential JavaScript concepts — ES6, DOM, async programming. Contains multiple mini projects.
 
 > Visit the repository <a href="https://github.com/jagratadeb/LearnJS" target="_blank">LearnJS</a>
 
@@ -202,11 +200,9 @@
 ### 🐍 LearnPython  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
-> 🐍 Python basics to intermediate concepts explained  
-> with examples and exercises for hands-on learning.
-
-> Includes Numpy, Pandas, Matplotlib, and Seaborn.
-> Streamlit, Flask web app projects are also included.
+🐍 Python basics to intermediate concepts explained with examples and exercises for hands-on learning.
+Includes Numpy, Pandas, Matplotlib, and Seaborn.
+Streamlit, Flask web app projects are also included.
 
 > Visit the repository <a href="https://github.com/jagratadeb/LearnPython" target="_blank">LearnPython</a>
 
