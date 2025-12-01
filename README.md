@@ -84,14 +84,23 @@
 
 ---
 
-## **🌐 Web Development**
-| HTML5 | CSS3 | JavaScript | React |
-|-------|------|------------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> | 
+## 🌐 **Web Development**
 
-| Flask | Streamlit | Jinja |
-|-------|------|------------|
-| <img src="https://skillicons.dev/icons?i=flask" width="60"/> | <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> | <img src="https://saidvandeklundert.net/img/jinja_logo.png" width="60"/> |
+| HTML5 | CSS3 | Tailwind | JavaScript | React | Flask | Streamlit | Jinja |
+|-------|------|----------|------------|--------|--------|-----------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> | <img src="https://freepngimg.com/download/icon/social_media/9215-tailwind-css.png" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=flask" width="60"/> |<img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> |<img src="https://saidvandeklundert.net/img/jinja_logo.png" width="60"/> |
+
+
+---
+
+## **🌐 Web Development**
+| HTML5 | CSS3 | Tailwind | JavaScript |
+|-------|------|------------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> | <img src="https://freepngimg.com/download/icon/social_media/9215-tailwind-css.png" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> |
+
+| React | Flask | Streamlit | Jinja |
+|-------|------|------------|------------|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=flask" width="60"/> | <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> | <img src="https://saidvandeklundert.net/img/jinja_logo.png" width="60"/> |
 
 ---
 
@@ -143,13 +152,20 @@
   </a>
 </p>
 
+
 <!-- Connect -->
 <h2 align="center">👋 Connect</h2>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/jagratadeb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/jagratadeb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://stackoverflow.com/users/27010053" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-FE7A15?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jagratadeb" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/JagrataDeb" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
+
 
 <!-- Projects & Repositories -->
 <h2 align="center">🚀 Projects & Repositories</h2>
@@ -168,6 +184,7 @@
     <img src="https://img.shields.io/badge/LearnPython-Python_Programming-3776AB?style=for-the-badge&logo=python" />
   </a>
 </p>
+
 
 <!-- GitHub Stats -->
 <h2 align="center">⭐ GitHub Statistics</h2>
