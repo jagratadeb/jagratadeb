@@ -162,21 +162,58 @@
 <!-- Projects & Repositories -->
 <h2 align="center">🚀 Projects & Repositories</h2>
 
-<h3 align="center">📚 Learning Resources</h3>
+## 🚀 Some Cool Repositories
 
-<p align="center">
-  <a href="https://github.com/jagratadeb/LearnDSA">
-    <img src="https://img.shields.io/badge/LearnDSA-Data_Structures_&_Algorithms-black?style=for-the-badge&logo=github" />
-  </a>
-  <br/>
-  <a href="https://github.com/jagratadeb/LearnJS">
-    <img src="https://img.shields.io/badge/LearnJS-JavaScript_Programming-F7DF1E?style=for-the-badge&logo=javascript" />
-  </a>
-  <br/>
-  <a href="https://github.com/jagratadeb/LearnPython">
-    <img src="https://img.shields.io/badge/LearnPython-Python_Programming-3776AB?style=for-the-badge&logo=python" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="100%">
+
+### 🎯 LearnDSA  
+<img src="https://img.shields.io/badge/Data Structure & Algorithms-181717?style=flat&logo=github&logoColor=white"/>
+
+> 📘 A structured, beginner-friendly repository for learning  
+> Data Structures & Algorithms with simple explanations and clean C/C++ implementations.
+> Covers arrays, linked lists, stacks, queues, trees,
+> graphs, sorting, searching, greedy algorithms, dynamic programming.
+
+> Visit the repository <a href="https://github.com/jagratadeb/LearnDSA" target="_blank">LearnDSA</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+### ⚡ LearnJS  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+
+> 🟨 Covers all essential JavaScript concepts — ES6, DOM,  
+> async programming.
+> Contains multiple mini projects.
+
+> Visit the repository <a href="https://github.com/jagratadeb/LearnJS" target="_blank">LearnJS</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+### 🐍 LearnPython  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
+> 🐍 Python basics to intermediate concepts explained  
+> with examples and exercises for hands-on learning.
+
+> Includes Numpy, Pandas, Matplotlib, and Seaborn.
+> Streamlit, Flask web app projects are also included.
+
+> Visit the repository <a href="https://github.com/jagratadeb/LearnPython" target="_blank">LearnPython</a>
+
+</td>
+</tr>
+</table>
+
 
 
 <!-- GitHub Stats -->
