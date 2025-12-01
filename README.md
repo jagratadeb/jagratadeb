@@ -137,12 +137,12 @@
 </p>
 
 <!-- Certifications -->
-<h2 align="center">Certifications</h2>
+<!-- <h2 align="center">Certifications</h2>
 <p align="center">
   <a href="https://oneroadmap.io/skills/js/certificate/CERT-D92C1E87" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-CERTIFICATE-F7DF1E?style=for-the-badge" />
   </a>
-</p>
+</p> -->
 
 
 <!-- Connect -->
