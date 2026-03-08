@@ -5,7 +5,7 @@
 
 <!-- Title and Subtitle -->
 <h1 align="center">Hi 👋, I'm Jagrata Deb</h1>
-<h3 align="center">ASPIRING SOFTWARE DEVELOPER</h3>
+<h3 align="center">SOFTWARE DEVELOPER</h3>
 <p align="center">
   <b>📍 Silchar, Assam, India</b>
 </p>
@@ -73,7 +73,7 @@
 
 | Streamlit | 
 |-------|
-| <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> | 
+| <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.j999999999pg" width="60"/> | 
 
 ---
 
@@ -127,22 +127,29 @@
 > ### ***📌 Notice***
 > *The technologies listed above reflect tools and frameworks that I have worked with at various stages of my development journey, indicating my practical experience with each.*
 
---- 
 <!-- Trophies -->
-<h2 align="center">🏆 Trophies</h2>
+<!-- <h2 align="center">🏆 Trophies</h2>
 <p align="center">
   <a href="https://github.com/jagratadeb">
     <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb&theme=juicyfresh" />
   </a>
-</p>
-
-<!-- Certifications -->
-<!-- <h2 align="center">Certifications</h2>
-<p align="center">
-  <a href="https://oneroadmap.io/skills/js/certificate/CERT-D92C1E87" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-CERTIFICATE-F7DF1E?style=for-the-badge" />
-  </a>
 </p> -->
+
+
+<h2 align="center"> 🏅 Certifications</h2>
+<p align="center">
+  <a href="https://www.udemy.com/certificate/UC-f58ac080-5874-4f57-8d42-8cae45338b45/" target="_blank">
+    <img src="https://img.shields.io/badge/Mastering%20Data%20Structures%20&%20Algorithms%20using%20C%20and%20C++-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/certificates/c956fe5b04c6" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20(Intermediate)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/certificates/c956fe5b04c6" target="_blank">
+    <img src="https://img.shields.io/badge/Software%20Engineer%20Intern-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 
 <!-- Connect -->
@@ -150,13 +157,18 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jagratadeb" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/JagrataDeb" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img height="35" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/jagratadeb.bsky.social" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
 </p>
+
 
 
 <!-- Projects & Repositories -->
@@ -213,26 +225,23 @@ Streamlit, Flask web app projects are also included.
 
 
 <!-- GitHub Stats -->
-<h2 align="center">⭐ GitHub Statistics</h2>
+<!-- <h2 align="center">⭐ GitHub Statistics</h2>
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=react&langs_count=10" />
-</p>
+</p> -->
 
 <!-- Activity Streak -->
-<h2 align="center">🔥 Activity Streak</h2>
+<h2 align="center">⭐ Profile Statsitics</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=react" />
 </p>
 
-<!-- Summary Cards -->
-<h2 align="center">📊 Profile Summary</h2>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=react" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=react" height="180em" />
 </p>
 
-<!-- Activity Graph -->
 <h2 align="center">📈 Activity Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
