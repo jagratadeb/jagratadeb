@@ -142,7 +142,7 @@
     <img src="https://img.shields.io/badge/Mastering%20Data%20Structures%20&%20Algorithms%20using%20C%20and%20C++-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/certificates/c956fe5b04c6" target="_blank">
+  <a href="https://www.hackerrank.com/certificates/ae42e512d690" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20(Intermediate)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   &nbsp;
