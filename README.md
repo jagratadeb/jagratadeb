@@ -225,11 +225,11 @@ Streamlit, Flask web app projects are also included.
 
 
 <!-- GitHub Stats -->
-<!-- <h2 align="center">⭐ GitHub Statistics</h2>
+<h2 align="center">⭐ GitHub Statistics</h2>
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=react&langs_count=10" />
-</p> -->
+</p>
 
 <!-- Activity Streak -->
 <h2 align="center">⭐ Profile Statsitics</h2>
