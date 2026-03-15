@@ -134,6 +134,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb&theme=juicyfresh" />
   </a>
 </p> -->
+![](https://github-profile-trophy.vercel.app/?username=JagrataDeb&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) 
 
 
 <h2 align="center"> 🏅 Certifications</h2>
