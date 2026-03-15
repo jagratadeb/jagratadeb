@@ -128,13 +128,12 @@
 > *The technologies listed above reflect tools and frameworks that I have worked with at various stages of my development journey, indicating my practical experience with each.*
 
 <!-- Trophies -->
-<!-- <h2 align="center">🏆 Trophies</h2>
+<h2 align="center">🏆 Trophies</h2>
 <p align="center">
   <a href="https://github.com/jagratadeb">
-    <img src="https://github-profile-trophy.vercel.app/?username=jagratadeb&theme=juicyfresh" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JagrataDeb&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" />
   </a>
-</p> -->
-![](https://github-profile-trophy.vercel.app/?username=JagrataDeb&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) 
+</p>
 
 
 <h2 align="center"> 🏅 Certifications</h2>
