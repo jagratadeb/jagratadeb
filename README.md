@@ -170,6 +170,18 @@
 </p>
 
 
+<!-- Blogs -->
+<h2 align="center">✍️ Blogs</h2>
+
+<p align="center">
+  <a href="https://medium.com/@jagratadeb" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://hashnode.com/@jagratadeb" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+</p>
 
 <!-- Projects & Repositories -->
 <h2 align="center">🚀 Projects & Repositories</h2>
