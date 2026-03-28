@@ -94,6 +94,10 @@
 |-------|------|------------|------------|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=flask" width="60"/> | <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> | <img src="https://saidvandeklundert.net/img/jinja_logo.png" width="60"/> |
 
+| PHP |
+|-----|
+| <img src="https://skillicons.dev/icons?i=php" width="60"/> |
+
 ---
 
 ## **🗄️ Databases**
