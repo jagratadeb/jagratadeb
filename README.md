@@ -90,9 +90,9 @@
 |-------|------|----------|------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> | <img src="https://freepngimg.com/download/icon/social_media/9215-tailwind-css.png" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> |
 
-| React | Node.js |
-|-------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="60"/> |
+| React | Node.js | Express |
+|-------|---------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="60"/> | <img src="https://skillicons.dev/icons?i=expressjs"/> |
 
 | Flask | Streamlit | Jinja | PHP |
 |-------|-----------|-------|-----|
