@@ -115,9 +115,9 @@
 ---
 
 ## **🛠 Tools**
-| VS Code | Jupyter | Anaconda |
-|----------|----------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="60"/> |
+| VS Code | Jupyter | Requestly |
+|----------|----------|------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> | <img src="https://requestly.com/wp-content/uploads//2025/05/RQ-Logo.svg" height="28"/> |
 
 ---
 
@@ -171,21 +171,13 @@
   <a href="https://bsky.app/profile/jagratadeb.bsky.social" target="_blank">
     <img height="35" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
-</p>
-
-
-<!-- Blogs -->
-<h2 align="center">✍️ Blogs</h2>
-
-<p align="center">
-  <a href="https://medium.com/@jagratadeb" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+    <a href="https://medium.com/@jagratadeb" target="_blank">
     <img height="35" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://hashnode.com/@jagratadeb" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
 </p>
+
+
 
 <!-- Projects & Repositories -->
 <h2 align="center">🚀 Projects & Repositories</h2>
