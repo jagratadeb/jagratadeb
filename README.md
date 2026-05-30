@@ -27,7 +27,7 @@
 <!-- About Me -->
 <h2 align="center">🪪 About Me</h2>
 <p align="center">
-  I am an aspiring developer exploring Data Structures & Algorithms, Web Development, System Design, and Machine Learning.
+  I a developer exploring Data Structures & Algorithms, Web Development, System Design (LLD & HLD), Artificial Intelligence and Machine Learning.
   I enjoy solving problems and continuously expanding my knowledge in the field of technology.
 </p>
 
@@ -44,10 +44,10 @@
 ## **🖥️ What am I busy with?**
 |🔍 Areas of Focus|📚 Learning|
 |--------|--------|
-| 🧩 Data Structures & Algorithms | 🖥️ Software Engineering|
-|🧠 Problem Solving|☁️ Cloud Computing|
-|🤖 Machine Learning & Deep Learning|🏗️ High-Level System Design|
-|🤖 Artificial Intelligence |🌐 Web Development|
+| 🧩 Data Structures & Algorithms | 🧠 Problem Solving |
+| 🖥️ Software Engineering |☁️ Cloud Computing|
+| 🌐 Full Stack Web Development |🏗️ System Design|
+|🤖 Machine Learning| 🤖 Artificial Intelligence
 
 ---
 
@@ -108,9 +108,9 @@
 ---
 
 ## **🛠 Tools**
-| VS Code | Jupyter | Anaconda |
-|----------|----------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="60"/> |
+| VS Code | Jupyter |
+|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> |
 
 ---
 
