@@ -110,7 +110,7 @@
 ## **🛠 Tools**
 | VS Code | Jupyter | Requestly |
 |----------|----------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> | <img src="https://requestly.com/wp-content/uploads//2025/05/RQ-Logo.svg" height="28"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> | <img src="https://requestly.com/img/rq-logo.svg" height="28"/> |
 
 ---
 
