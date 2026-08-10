@@ -35,19 +35,19 @@
 <p align="center"><strong>📫 jagratadeb2004@gmail.com</strong></p>
 <div align="center">
   <a href="https://www.linkedin.com/in/jagratadeb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60"  alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"  alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/JagrataDeb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="60" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" alt="Twitter"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bsky.app/profile/jagratadeb.bsky.social" target="_blank">
-    <img src="https://cdn.simpleicons.org/bluesky/0285FF" width="60" alt="Bluesky"/>
+    <img src="https://cdn.simpleicons.org/bluesky/0285FF" width="50" alt="Bluesky"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@jagratadeb" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/000000" width="60" alt="Medium"/>
+    <img src="https://cdn.simpleicons.org/medium/000000" width="50" alt="Medium"/>
   </a>
 </div>
 
@@ -99,15 +99,23 @@
 |-------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> |
 
-<!-- Backend, APIs, and database tools -->
-### Backend, APIs & Databases
-| Node.js | Express | MongoDB | MySQL |
-|---------|---------|---------|-------|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="60"/> | <img src="https://skillicons.dev/icons?i=expressjs" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/> |
+<!-- Backend services -->
+### Backend
+| Node.js | Express |
+|---------|---------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="60"/> | <img src="https://skillicons.dev/icons?i=expressjs" width="60"/> |
 
-| JWT | Postman |
-|-----|---------|
-| <img src="https://jwt.io/img/pic_logo.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=postman" width="60"/> |
+<!-- API tooling and authentication -->
+### APIs
+| JWT | Postman | Requestly |
+|-----|---------|-----------|
+| <img src="https://jwt.io/img/pic_logo.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=postman" width="60"/> | <img src="https://requestly.com/img/rq-logo.svg" width="60"/> |
+
+<!-- Data storage -->
+### Database
+| MongoDB | MySQL |
+|---------|-------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/> |
 
 <!-- Server-side rendering and templates -->
 ### Server-Side & Templates
@@ -151,10 +159,9 @@
 
 ## **🛠 Tools**
 
-| VS Code | Jupyter | Requestly |
-|----------|----------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> | <img src="https://requestly.com/img/rq-logo.svg" height="28"/> |
-
+| VS Code | Jupyter | 
+|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> | 
 ---
 
 ## **🎨 Design Tools**
