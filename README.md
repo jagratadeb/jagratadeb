@@ -94,6 +94,10 @@
 |-------|---------|---------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="60"/> | <img src="https://skillicons.dev/icons?i=expressjs"/> |
 
+| MongoDB | MySQL | JWT |
+|---------|-------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/> | <img src="https://jwt.io/img/pic_logo.svg" width="60"/> |
+
 | Flask | Streamlit | Jinja | PHP |
 |-------|-----------|-------|-----|
 | <img src="https://skillicons.dev/icons?i=flask" width="60"/> | <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> | <img src="https://saidvandeklundert.net/img/jinja_logo.png" width="60"/> | <img src="https://skillicons.dev/icons?i=php" width="60"/> |
@@ -252,7 +256,7 @@ Streamlit, Flask web app projects are also included.
 <h2 align="center">⌨️ Time Spent Coding (via WakaTime)</h2>
 <p align="center"><strong>📅 Stats are being tracked since Friday, 30 May 2025</strong></p>
 <p align="center">
-  <img src="https://wakatime.com/share/@jagratadeb/9212c97e-6cc7-44e2-a8f7-cf4c8732a09c.svg" />
+  <img src="ht]tps://wakatime.com/share/@jagratadeb/9212c97e-6cc7-44e2-a8f7-cf4c8732a09c.svg" />
 </p>
 
 <!-- Quote -->
