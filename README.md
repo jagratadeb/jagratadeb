@@ -281,7 +281,7 @@ Streamlit, Flask web app projects are also included.
 <h2 align="center">⌨️ Time Spent Coding (via WakaTime)</h2>
 <p align="center"><strong>📅 Stats are being tracked since Friday, 30 May 2025</strong></p>
 <p align="center">
-  <img src="ht]tps://wakatime.com/share/@jagratadeb/9212c97e-6cc7-44e2-a8f7-cf4c8732a09c.svg" />
+  <img src="https://wakatime.com/share/@jagratadeb/ea7107c1-aaee-4866-b949-4e7ca6ea9b75.png" />
 </p>
 
 <!-- Quote -->
