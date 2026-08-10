@@ -4,8 +4,8 @@
 </p>
 
 <!-- Title and Subtitle -->
-<h1 align="center">Hi 👋, I'm Jagrata Deb</h1>
-<h3 align="center">SOFTWARE DEVELOPER</h3>
+<h1 align="center">Hi, I'm Jagrata Deb</h1>
+<h3 align="center">SOFTWARE ENGINEER</h3>
 <p align="center">
   <b>📍 Silchar, Assam, India</b>
 </p>
@@ -22,31 +22,51 @@
   KIIT University, 2023-2027
 </p>
 
-<p align="center"><strong>📫 jagratadeb2004@gmail.com</strong></p>
-
+<!-- Intro section -->
 <!-- About Me -->
 <h2 align="center">🪪 About Me</h2>
 <p align="center">
-  I a developer exploring Data Structures & Algorithms, Web Development, System Design (LLD & HLD), Artificial Intelligence and Machine Learning.
+  I am a software engineer exploring Data Structures & Algorithms, Web Development, System Design (LLD & HLD), Artificial Intelligence and Machine Learning.
   I enjoy solving problems and continuously expanding my knowledge in the field of technology.
 </p>
 
-<p align="center">
+<!-- Contact links for quick access -->
+<h2 align="center">📧 Contact</h2>
+<p align="center"><strong>📫 jagratadeb2004@gmail.com</strong></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jagratadeb" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60"  alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/JagrataDeb" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="60" alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/jagratadeb.bsky.social" target="_blank">
+    <img src="https://cdn.simpleicons.org/bluesky/0285FF" width="60" alt="Bluesky"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@jagratadeb" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/000000" width="60" alt="Medium"/>
+  </a>
+</div>
+
+<!-- <p align="center">
   <a href="https://www.duolingo.com/profile/iamJagrataDeb" target="_blank">
     <img style="width:250px" src="https://img.shields.io/badge/Duolingo%20(German)-58CC02.svg?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Badge">
   </a>
   <br/>
   <b style="color:white;">Language Level: Early A1</b>
-</p>
+</p> -->
 
 ---
 
+<!-- Current focus snapshot -->
 ## **🖥️ What am I busy with?**
 |🔍 Areas of Focus|📚 Learning|
 |--------|--------|
 | 🧩 Data Structures & Algorithms | 🧠 Problem Solving |
-| 🖥️ Software Engineering |☁️ Cloud Computing|
-| 🌐 Full Stack Web Development |🏗️ System Design|
+| 🌐 Full Stack Web Development |🏗️ System Design (HLD)|
 |🤖 Machine Learning| 🤖 Artificial Intelligence
 
 ---
@@ -54,6 +74,7 @@
 <!-- Redesigned Skills & Technologies -->
 <h2 align="center">🛠️ Skills & Technologies</h2>
 
+<!-- Keep each icon row at four items or fewer for readability and easy editing. -->
 ## **📝 Programming Languages**
 
 | C | C++ | Java | Python |
@@ -66,45 +87,62 @@
 
 ---
 
-## **🤖 AI/ML & Data Science (Python Framework)**
-| PyTorch | NumPy | Pandas | Scikit-Learn |
-|---------|--------|--------|----------------|
-| <img src="https://skillicons.dev/icons?i=pytorch" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=sklearn" width="60"/> |
-
-| Streamlit | 
-|-------|
-| <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> | 
-
----
-
-## **📊 Data Visualization**
-| Matplotlib | Seaborn |
-|------------|----------|
-| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Matplotlib_icon.svg" width="60"/> | <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="60"/> |
-
-
----
-
 ## **🌐 Web Development**
+
+<!-- Frontend stack -->
+### Frontend
 | HTML5 | CSS3 | Tailwind | JavaScript |
 |-------|------|----------|------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> | <img src="https://freepngimg.com/download/icon/social_media/9215-tailwind-css.png" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> |
 
-| React | Node.js | Express |
-|-------|---------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="60"/> | <img src="https://skillicons.dev/icons?i=expressjs"/> |
+| React |
+|-------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> |
 
-| MongoDB | MySQL | JWT |
-|---------|-------|-----|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/> | <img src="https://jwt.io/img/pic_logo.svg" width="60"/> |
+<!-- Backend, APIs, and database tools -->
+### Backend, APIs & Databases
+| Node.js | Express | MongoDB | MySQL |
+|---------|---------|---------|-------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="60"/> | <img src="https://skillicons.dev/icons?i=expressjs" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/> |
 
+| JWT | Postman |
+|-----|---------|
+| <img src="https://jwt.io/img/pic_logo.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=postman" width="60"/> |
+
+<!-- Server-side rendering and templates -->
+### Server-Side & Templates
 | Flask | Streamlit | Jinja | PHP |
 |-------|-----------|-------|-----|
 | <img src="https://skillicons.dev/icons?i=flask" width="60"/> | <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> | <img src="https://saidvandeklundert.net/img/jinja_logo.png" width="60"/> | <img src="https://skillicons.dev/icons?i=php" width="60"/> |
 
 ---
 
+## **🤖 AI/ML & Data Science (Python Framework)**
+
+<!-- Python ecosystem for ML and data work -->
+### Core Python Ecosystem
+| PyTorch | NumPy | Pandas | Scikit-Learn |
+|---------|--------|--------|--------------|
+| <img src="https://skillicons.dev/icons?i=pytorch" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=sklearn" width="60"/> |
+
+<!-- App prototyping tools -->
+### App Development
+| Streamlit |
+|-----------|
+| <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> |
+
+---
+
+## **📊 Data Visualization**
+
+| Matplotlib | Seaborn |
+|------------|----------|
+| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Matplotlib_icon.svg" width="60"/> | <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="60"/> |
+
+---
+
 ## **🔢 Version Control**
+
 | Git | GitHub |
 |-----|--------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=github" width="60"/> |
@@ -112,6 +150,7 @@
 ---
 
 ## **🛠 Tools**
+
 | VS Code | Jupyter | Requestly |
 |----------|----------|------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> | <img src="https://requestly.com/img/rq-logo.svg" height="28"/> |
@@ -119,6 +158,7 @@
 ---
 
 ## **🎨 Design Tools**
+
 | Figma | Canva |
 |--------|--------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60"/> |
@@ -153,29 +193,7 @@
 </p>
 
 
-<!-- Connect -->
-<h2 align="center">👋 Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jagratadeb" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/JagrataDeb" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://bsky.app/profile/jagratadeb.bsky.social" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/@jagratadeb" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
-
-
-
+<!-- Projects and repository highlights -->
 <!-- Projects & Repositories -->
 <h2 align="center">🚀 Projects & Repositories</h2>
 
@@ -263,6 +281,27 @@ Streamlit, Flask web app projects are also included.
 <h2 align="center">💡 Quote</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<!-- Social links and final footer -->
+<h2 align="center">👋 Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jagratadeb" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/JagrataDeb" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bsky.app/profile/jagratadeb.bsky.social" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@jagratadeb" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
