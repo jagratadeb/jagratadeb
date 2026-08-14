@@ -54,7 +54,7 @@
 
 ---
 
-## Current Focus 🎯
+<h2 align="center"> Current Focus 🎯</h2>
 
 | 🎯 Areas of Focus | 📚 Currently Learning |
 | --- | --- |
