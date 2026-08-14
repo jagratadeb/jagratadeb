@@ -1,8 +1,10 @@
 <!-- Banner Image -->
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/19cd92bc-400d-48a3-a604-2f752752bc65" />
 
+<h2 align="center">📍 Silchar, Assam, India</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Silchar%2C%20Assam%2C%20India-1b1b1b?style=for-the-badge&logo=googlemaps&logoColor=red" alt="Based in Silchar, Assam, India" />
+  <img src="https://img.shields.io/badge/Based%20in-Silchar%2C%20Assam%2C%20India-00A86B?style=for-the-badge&logo=googlemaps&logoColor=red" alt="Based in Silchar, Assam, India" />
 </p>
 
 <p align="center">
