@@ -1,309 +1,266 @@
 <!-- Banner Image -->
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/19cd92bc-400d-48a3-a604-2f752752bc65" />
 
-<!-- Title and Subtitle -->
 <p align="center">
   <b>📍 Silchar, Assam, India</b>
 </p>
 
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20Views&color=1b1b1b&style=flat" alt="jagratadeb" />
+  <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20Views&color=1b1b1b&style=flat" alt="Profile views for jagratadeb" />
 </p>
 
-<!-- Education -->
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  I am a Computer Science and Engineering student at KIIT University, currently building a strong foundation in software engineering, data structures and algorithms, full-stack web development, system design, artificial intelligence, and machine learning.
+</p>
+
+<p align="center">
+  I enjoy solving problems, building practical projects, and continuously improving my technical depth through hands-on learning.
+</p>
+
+<h2 align="center">Education</h2>
+
 <p align="center">
   <strong>Bachelor of Technology (B.Tech), Computer Science & Engineering</strong><br>
-  KIIT University, 2023-2027
+  KIIT University | 2023-2027
 </p>
 
-<!-- Intro section -->
-<!-- About Me -->
-<h2 align="center">🪪 About Me</h2>
+<h2 align="center">Contact</h2>
+
 <p align="center">
-  I am a software engineer exploring Data Structures & Algorithms, Web Development, System Design (LLD & HLD), Artificial Intelligence and Machine Learning.
-  I enjoy solving problems and continuously expanding my knowledge in the field of technology.
+  <strong>📫 jagratadeb2004@gmail.com</strong>
 </p>
 
-<!-- Contact links for quick access -->
-<h2 align="center">📧 Contact</h2>
-<p align="center"><strong>📫 jagratadeb2004@gmail.com</strong></p>
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/jagratadeb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"  alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/JagrataDeb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" alt="Twitter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" alt="X / Twitter" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bsky.app/profile/jagratadeb.bsky.social" target="_blank">
-    <img src="https://cdn.simpleicons.org/bluesky/0285FF" width="50" alt="Bluesky"/>
+    <img src="https://cdn.simpleicons.org/bluesky/0285FF" width="50" alt="Bluesky" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@jagratadeb" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/000000" width="50" alt="Medium"/>
-  </a>
-</div>
-
-<!-- <p align="center">
-  <a href="https://www.duolingo.com/profile/iamJagrataDeb" target="_blank">
-    <img style="width:250px" src="https://img.shields.io/badge/Duolingo%20(German)-58CC02.svg?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Badge">
-  </a>
-  <br/>
-  <b style="color:white;">Language Level: Early A1</b>
-</p> -->
-
----
-
-<!-- Current focus snapshot -->
-## **🖥️ What am I busy with?**
-|🔍 Areas of Focus|📚 Learning|
-|--------|--------|
-| 🧩 Data Structures & Algorithms | 🧠 Problem Solving |
-| 🌐 Full Stack Web Development |🏗️ System Design (HLD)|
-|🤖 Machine Learning| 🤖 Artificial Intelligence
-
----
-
-<!-- Redesigned Skills & Technologies -->
-<h2 align="center">🛠️ Skills & Technologies</h2>
-
-<!-- Keep each icon row at four items or fewer for readability and easy editing. -->
-## **📝 Programming Languages**
-
-| C | C++ | Java | Python |
-|---|-----|------|--------|
-| <img src="https://pngimg.com/uploads/letter_c/letter_c_PNG22.png" width="60"/> | <img src="https://skillicons.dev/icons?i=cpp" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/> |
-
-| JavaScript | C# |
-|------------|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> | <img src="https://logodix.com/logo/773626.png" width="60"/> |
-
----
-
-## **🌐 Web Development**
-
-<!-- Frontend stack -->
-### Frontend
-| HTML5 | CSS3 | Tailwind | JavaScript |
-|-------|------|----------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> | <img src="https://freepngimg.com/download/icon/social_media/9215-tailwind-css.png" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> |
-
-| React |
-|-------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> |
-
-<!-- Backend services -->
-### Backend
-| Node.js | Express |
-|---------|---------|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="60"/> | <img src="https://skillicons.dev/icons?i=expressjs" width="60"/> |
-
-<!-- API tooling and authentication -->
-### APIs
-| JWT | Postman | Requestly |
-|-----|---------|-----------|
-| <img src="https://jwt.io/img/pic_logo.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=postman" width="60"/> | <img src="https://requestly.com/img/rq-logo.svg" width="60"/> |
-
-<!-- Data storage -->
-### Database
-| MongoDB | MySQL | Oracle |
-|---------|-------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60"/> |
-
-<!-- Server-side rendering and templates -->
-### Server-Side & Templates
-| Flask | Streamlit | Jinja | PHP |
-|-------|-----------|-------|-----|
-| <img src="https://skillicons.dev/icons?i=flask" width="60"/> | <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> | <img src="https://saidvandeklundert.net/img/jinja_logo.png" width="60"/> | <img src="https://skillicons.dev/icons?i=php" width="60"/> |
-
----
-
-## **🤖 AI/ML & Data Science (Python Framework)**
-
-<!-- Python ecosystem for ML and data work -->
-### Core Python Ecosystem
-| PyTorch | NumPy | Pandas | Scikit-Learn |
-|---------|--------|--------|--------------|
-| <img src="https://skillicons.dev/icons?i=pytorch" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=sklearn" width="60"/> |
-
-<!-- App prototyping tools -->
-### App Development
-| Streamlit |
-|-----------|
-| <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="60"/> |
-
----
-
-## **📊 Data Visualization**
-
-| Matplotlib | Seaborn |
-|------------|----------|
-| <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Matplotlib_icon.svg" width="60"/> | <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="60"/> |
-
----
-
-## **🔢 Version Control**
-
-| Git | GitHub |
-|-----|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> | <img src="https://skillicons.dev/icons?i=github" width="60"/> |
-
----
-
-## **🛠 Tools**
-
-| VS Code | Jupyter | 
-|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> | 
----
-
-## **🎨 Design Tools**
-
-| Figma | Canva |
-|--------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60"/> |
-
----
-
-> ### ***📌 Notice***
-> *The technologies listed above reflect tools and frameworks that I have worked with at various stages of my development journey, indicating my practical experience with each.*
-
-<!-- Trophies -->
-<h2 align="center">🏆 Trophies</h2>
-<p align="center">
-  <a href="https://github.com/jagratadeb">
-    <img src="https://github-profile-trophy.vercel.app/?username=JagrataDeb&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" />
+    <img src="https://cdn.simpleicons.org/medium/000000" width="50" alt="Medium" />
   </a>
 </p>
 
+---
 
-<h2 align="center"> 🏅 Certifications</h2>
+## Current Focus
+
+| Areas of Focus | Currently Learning |
+| --- | --- |
+| Data Structures & Algorithms | Problem Solving |
+| Full-Stack Web Development | High-Level System Design |
+| Machine Learning | Artificial Intelligence |
+
+---
+
+<h2 align="center">Skills & Technologies</h2>
+<p align="center"><strong>Programming Languages</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" width="52" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="52" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java" width="52" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="52" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=cs" width="52" alt="C#" />
+</p>
+
+<p align="center"><strong>Web Development Frameworks</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="52" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="52" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=react" width="52" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="52" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="52" alt="Express" />
+  <img src="https://jwt.io/img/pic_logo.svg" width="52" alt="JWT" />
+</p>
+
+<p align="center"><strong>Backend & Databases</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask" width="52" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=php" width="52" alt="PHP" />
+  <img src="https://saidvandeklundert.net/img/jinja_logo.png" width="52" alt="Jinja" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="52" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="52" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="52" alt="Oracle" />
+</p>
+
+<p align="center"><strong>AI/ML & Data</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="52" alt="Scikit-Learn" />
+  <img src="https://images.ctfassets.net/23aumh6u8s0i/2Qhstbnq6i34wLoPoAjWoq/9f66f58a22870df0d72a3cbaf77ce5b6/streamlit_hero.jpg" width="52" alt="Streamlit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="52" alt="Jupyter" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Matplotlib_icon.svg" width="52" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="62" alt="Seaborn" />
+</p>
+
+<p align="center"><strong>Version Control</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="52" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub" />
+</p>
+
+<p align="center"><strong>API & Testing Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" width="52" alt="Postman" />
+  <img src="https://requestly.com/img/rq-logo.svg" width="52" alt="Requestly" />
+</p>
+
+<p align="center"><strong>Developer Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code" />
+</p>
+
+<p align="center"><strong>Design Tools</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" width="52" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="52" alt="Canva" />
+</p>
+
+> **Note:** The technologies listed above represent tools and frameworks I have used at different stages of my development journey.
+
+---
+
+<h2 align="center">Certifications</h2>
+
 <p align="center">
   <a href="https://www.udemy.com/certificate/UC-f58ac080-5874-4f57-8d42-8cae45338b45/" target="_blank">
-    <img src="https://img.shields.io/badge/Mastering%20Data%20Structures%20&%20Algorithms%20using%20C%20and%20C++-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mastering%20Data%20Structures%20&%20Algorithms%20using%20C%20and%20C++-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy DSA Certificate" />
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/certificates/ae42e512d690" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20(Intermediate)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL%20(Intermediate)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Intermediate Certificate" />
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/certificates/c956fe5b04c6" target="_blank">
-    <img src="https://img.shields.io/badge/Software%20Engineer%20Intern-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/Software%20Engineer%20Intern-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Software Engineer Intern Certificate" />
   </a>
 </p>
 
+---
 
-<!-- Projects and repository highlights -->
-<!-- Projects & Repositories -->
-<h2 align="center">🚀 Projects & Repositories</h2>
-
-## 🚀 Some Cool Repositories
+<h2 align="center">Projects & Repositories</h2>
 
 <table align="center">
 <tr>
 <td width="100%">
 
-### 🎯 LearnDSA  
-<img src="https://img.shields.io/badge/Data Structure & Algorithms-181717?style=flat&logo=github&logoColor=white"/>
+### LearnDSA
 
-📘 A structured, repository for learning Data Structures & Algorithms with simple explanations and clean C/C++ implementations.
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-181717?style=flat&logo=github&logoColor=white" alt="Data Structures and Algorithms" />
 
-Covers arrays, linked lists, stacks, queues, trees,
-graphs, sorting, searching, greedy algorithms, dynamic programming.
+A structured repository for learning Data Structures & Algorithms with simple explanations and clean C/C++ implementations.
 
-> Visit the repository <a href="https://github.com/jagratadeb/LearnDSA" target="_blank">LearnDSA</a>
+Topics include arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, greedy algorithms, and dynamic programming.
 
-</td>
-</tr>
-
-<tr>
-<td width="100%">
-
-### ⚡ LearnJS  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-
-🟨 Covers all essential JavaScript concepts — ES6, DOM, async programming. Contains multiple mini projects.
-
-> Visit the repository <a href="https://github.com/jagratadeb/LearnJS" target="_blank">LearnJS</a>
+<a href="https://github.com/jagratadeb/LearnDSA" target="_blank">View LearnDSA</a>
 
 </td>
 </tr>
-
 <tr>
 <td width="100%">
 
-### 🐍 LearnPython  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+### LearnJS
 
-🐍 Python basics to intermediate concepts explained with examples and exercises for hands-on learning.
-Includes Numpy, Pandas, Matplotlib, and Seaborn.
-Streamlit, Flask web app projects are also included.
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 
-> Visit the repository <a href="https://github.com/jagratadeb/LearnPython" target="_blank">LearnPython</a>
+A JavaScript learning repository covering essential concepts such as ES6, DOM manipulation, and asynchronous programming, along with multiple mini projects.
+
+<a href="https://github.com/jagratadeb/LearnJS" target="_blank">View LearnJS</a>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### LearnPython
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+
+A hands-on Python learning repository covering beginner to intermediate concepts with examples and exercises.
+
+It includes NumPy, Pandas, Matplotlib, Seaborn, Streamlit, and Flask-based web app projects.
+
+<a href="https://github.com/jagratadeb/LearnPython" target="_blank">View LearnPython</a>
 
 </td>
 </tr>
 </table>
 
+<!-- ---
 
+<h2 align="center">Trophies</h2>
 
-<!-- GitHub Stats -->
-<h2 align="center">⭐ GitHub Statistics</h2>
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=jagratadeb&border_radius=5&custom_title=JAGRATA+DEB+%7C+PROFILE+SUMMARY&size=compact&order=grade%2Ccommits%2Chours%2Cweek%2Ctrend%2Cavg%2Ccontributions%2Cprs%2Cissues%2Cstars%2Cstreak%2Cactive_day%2Crepos%2Cfollowers" alt="GitHub Stats Card" />
+  <a href="https://github.com/jagratadeb">
+    <img src="https://github-profile-trophy.vercel.app/?username=JagrataDeb&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophies" />
+  </a>
+</p> -->
 
-  <img src="https://ghstats.dev/api/sparkline?username=jagratadeb&days=30&width=500&height=175&border_radius=5&title=CONTRIBUTION+GRAPH+%7C+LAST+90+DAYS" alt="Contribution Sparkline" />
+---
 
-<br>
-  
-  <img src="https://ghstats.dev/api/card?username=jagratadeb&custom_title=JAGRATA+DEB+%7C+PROFILE+STATISTICS&order=grade%2Ccommits%2Chours%2Cweek%2Ctrend%2Cavg%2Ccontributions%2Cprs%2Cissues%2Cstars%2Cstreak%2Cactive_day%2Crepos%2Cfollowers" alt="GitHub Stats Card" />
+<h2 align="center">GitHub Statistics</h2>
 
-  <img src="https://ghstats.dev/api/langs?username=jagratadeb&custom_title=JAGRATA+DEB+%7C+TOP+LANGUAGES&max_langs=12&layout=vertical_list" alt="Top Languages" />
-
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=jagratadeb&border_radius=5&custom_title=JAGRATA+DEB+%7C+PROFILE+SUMMARY&size=compact&order=grade%2Ccommits%2Chours%2Cweek%2Ctrend%2Cavg%2Ccontributions%2Cprs%2Cissues%2Cstars%2Cstreak%2Cactive_day%2Crepos%2Cfollowers" alt="GitHub profile summary" />
+  <img src="https://ghstats.dev/api/sparkline?username=jagratadeb&days=30&width=500&height=175&border_radius=5&title=CONTRIBUTION+GRAPH+%7C+LAST+90+DAYS" alt="GitHub contribution sparkline" />
+  <br>
+  <img src="https://ghstats.dev/api/card?username=jagratadeb&custom_title=JAGRATA+DEB+%7C+PROFILE+STATISTICS&order=grade%2Ccommits%2Chours%2Cweek%2Ctrend%2Cavg%2Ccontributions%2Cprs%2Cissues%2Cstars%2Cstreak%2Cactive_day%2Crepos%2Cfollowers" alt="GitHub profile statistics" />
+  <img src="https://ghstats.dev/api/langs?username=jagratadeb&custom_title=JAGRATA+DEB+%7C+TOP+LANGUAGES&max_langs=12&layout=vertical_list" alt="Top programming languages" />
 </p>
 
+---
 
+<h2 align="center">Time Spent Coding</h2>
 
-
-
-
-<!-- WakaTime -->
-<h2 align="center">⌨️ Time Spent Coding (via WakaTime)</h2>
-<p align="center"><strong>📅 Stats are being tracked since Friday, 30 May 2025</strong></p>
 <p align="center">
-  <img src="https://wakatime.com/share/@jagratadeb/ea7107c1-aaee-4866-b949-4e7ca6ea9b75.png" />
+  <strong>📅 WakaTime stats tracked since Friday, 30 May 2025</strong>
 </p>
 
-<!-- Quote -->
-<h2 align="center">💡 Quote</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://wakatime.com/share/@jagratadeb/ea7107c1-aaee-4866-b949-4e7ca6ea9b75.png" alt="WakaTime coding activity" />
 </p>
 
-<!-- Social links and final footer -->
-<h2 align="center">👋 Connect</h2>
+---
+
+<h2 align="center">Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer quote" />
+</p>
+
+---
+
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jagratadeb" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img height="35" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/JagrataDeb" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img height="35" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
   &nbsp;&nbsp;
   <a href="https://bsky.app/profile/jagratadeb.bsky.social" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+    <img height="35" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@jagratadeb" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img height="35" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/1e17e08a-6e3c-4d51-949b-56979bb64961" />
-
-
+<img width="2125" height="575" alt="github-footer-banner" src="https://github.com/user-attachments/assets/1e17e08a-6e3c-4d51-949b-56979bb64961" />
