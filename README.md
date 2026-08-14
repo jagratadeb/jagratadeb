@@ -1,10 +1,8 @@
 <!-- Banner Image -->
-<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/6e6e7c4a-3b9b-4067-8a59-6446cba623b4" />
+<img width="2125" height="575" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/b194e589-f897-45f7-9ca4-1f08ed83605a" />
 
 
 <!-- Title and Subtitle -->
-<h1 align="center">Hi, I'm Jagrata Deb</h1>
-<h3 align="center">SOFTWARE ENGINEER</h3>
 <p align="center">
   <b>📍 Silchar, Assam, India</b>
 </p>
@@ -256,25 +254,22 @@ Streamlit, Flask web app projects are also included.
 <!-- GitHub Stats -->
 <h2 align="center">⭐ GitHub Statistics</h2>
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jagratadeb&show_icons=true&locale=en&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratadeb&layout=compact&theme=react&langs_count=10" />
+  <img src="https://ghstats.dev/api/card?username=jagratadeb&border_radius=5&custom_title=JAGRATA+DEB+%7C+PROFILE+SUMMARY&size=compact&order=grade%2Ccommits%2Chours%2Cweek%2Ctrend%2Cavg%2Ccontributions%2Cprs%2Cissues%2Cstars%2Cstreak%2Cactive_day%2Crepos%2Cfollowers" alt="GitHub Stats Card" />
+
+  <img src="https://ghstats.dev/api/sparkline?username=jagratadeb&days=30&width=500&height=175&border_radius=5&title=CONTRIBUTION+GRAPH+%7C+LAST+90+DAYS" alt="Contribution Sparkline" />
+
+<br>
+  
+  <img src="https://ghstats.dev/api/card?username=jagratadeb&custom_title=JAGRATA+DEB+%7C+PROFILE+STATISTICS&order=grade%2Ccommits%2Chours%2Cweek%2Ctrend%2Cavg%2Ccontributions%2Cprs%2Cissues%2Cstars%2Cstreak%2Cactive_day%2Crepos%2Cfollowers" alt="GitHub Stats Card" />
+
+  <img src="https://ghstats.dev/api/langs?username=jagratadeb&custom_title=JAGRATA+DEB+%7C+TOP+LANGUAGES&max_langs=12&layout=vertical_list" alt="Top Languages" />
+
 </p>
 
-<!-- Activity Streak -->
-<h2 align="center">⭐ Profile Statsitics</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratadeb&theme=react" />
-</p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratadeb&theme=react" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratadeb&theme=react" height="180em" />
-</p>
 
-<h2 align="center">📈 Activity Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratadeb&theme=react-dark" />
-</p>
+
+
 
 <!-- WakaTime -->
 <h2 align="center">⌨️ Time Spent Coding (via WakaTime)</h2>
