@@ -1,6 +1,5 @@
 <!-- Banner Image -->
-<img width="2125" height="575" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/b194e589-f897-45f7-9ca4-1f08ed83605a" />
-
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/19cd92bc-400d-48a3-a604-2f752752bc65" />
 
 <!-- Title and Subtitle -->
 <p align="center">
@@ -305,5 +304,6 @@ Streamlit, Flask web app projects are also included.
   </a>
 </p>
 
-<img width="2125" height="575" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/5ffe6089-73a3-46db-bd9f-dfaf1b82a76a" />
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/1e17e08a-6e3c-4d51-949b-56979bb64961" />
+
 
