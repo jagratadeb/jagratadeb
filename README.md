@@ -310,6 +310,5 @@ Streamlit, Flask web app projects are also included.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
-</p>
+<img width="2125" height="575" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/5ffe6089-73a3-46db-bd9f-dfaf1b82a76a" />
+
