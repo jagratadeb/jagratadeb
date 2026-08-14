@@ -1,7 +1,6 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-</p>
+<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/6e6e7c4a-3b9b-4067-8a59-6446cba623b4" />
+
 
 <!-- Title and Subtitle -->
 <h1 align="center">Hi, I'm Jagrata Deb</h1>
