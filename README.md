@@ -2,14 +2,14 @@
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/19cd92bc-400d-48a3-a604-2f752752bc65" />
 
 <p align="center">
-  <b>📍 Silchar, Assam, India</b>
+  <img src="https://img.shields.io/badge/Based%20in-Silchar%2C%20Assam%2C%20India-1b1b1b?style=for-the-badge&logo=googlemaps&logoColor=red" alt="Based in Silchar, Assam, India" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jagratadeb&label=Profile%20Views&color=1b1b1b&style=flat" alt="Profile views for jagratadeb" />
 </p>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me 👨‍💻</h2>
 
 <p align="center">
   I am a Computer Science and Engineering student at KIIT University, currently building a strong foundation in software engineering, data structures and algorithms, full-stack web development, system design, artificial intelligence, and machine learning.
@@ -19,14 +19,14 @@
   I enjoy solving problems, building practical projects, and continuously improving my technical depth through hands-on learning.
 </p>
 
-<h2 align="center">Education</h2>
+<h2 align="center">Education 🎓</h2>
 
 <p align="center">
   <strong>Bachelor of Technology (B.Tech), Computer Science & Engineering</strong><br>
   KIIT University | 2023-2027
 </p>
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Contact 📬</h2>
 
 <p align="center">
   <strong>📫 jagratadeb2004@gmail.com</strong>
@@ -52,18 +52,18 @@
 
 ---
 
-## Current Focus
+## Current Focus 🎯
 
-| Areas of Focus | Currently Learning |
+| 🎯 Areas of Focus | 📚 Currently Learning |
 | --- | --- |
-| Data Structures & Algorithms | Problem Solving |
-| Full-Stack Web Development | High-Level System Design |
-| Machine Learning | Artificial Intelligence |
+| 🧩 Data Structures & Algorithms | 🧠 Problem Solving |
+| 🌐 Full-Stack Web Development | 🏗️ High-Level System Design |
+| 🤖 Machine Learning | ✨ Artificial Intelligence |
 
 ---
 
-<h2 align="center">Skills & Technologies</h2>
-<p align="center"><strong>Programming Languages</strong></p>
+<h2 align="center">Skills & Technologies 🛠️</h2>
+<p align="center"><strong>Programming Languages 💻</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" width="52" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" width="52" alt="C++" />
@@ -73,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=cs" width="52" alt="C#" />
 </p>
 
-<p align="center"><strong>Web Development Frameworks</strong></p>
+<p align="center"><strong>Web Development Frameworks 🌐</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" width="52" alt="CSS3" />
@@ -84,7 +84,7 @@
   <img src="https://jwt.io/img/pic_logo.svg" width="52" alt="JWT" />
 </p>
 
-<p align="center"><strong>Backend & Databases</strong></p>
+<p align="center"><strong>Backend & Databases 🗄️</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask" width="52" alt="Flask" />
   <img src="https://skillicons.dev/icons?i=php" width="52" alt="PHP" />
@@ -94,7 +94,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="52" alt="Oracle" />
 </p>
 
-<p align="center"><strong>AI/ML & Data</strong></p>
+<p align="center"><strong>AI/ML & Data 🤖</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch" width="52" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" alt="NumPy" />
@@ -106,24 +106,24 @@
   <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="62" alt="Seaborn" />
 </p>
 
-<p align="center"><strong>Version Control</strong></p>
+<p align="center"><strong>Version Control 🌿</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" width="52" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub" />
 </p>
 
-<p align="center"><strong>API & Testing Tools</strong></p>
+<p align="center"><strong>API & Testing Tools 🧪</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman" width="52" alt="Postman" />
   <img src="https://requestly.com/img/rq-logo.svg" width="52" alt="Requestly" />
 </p>
 
-<p align="center"><strong>Developer Tools</strong></p>
+<p align="center"><strong>Developer Tools ⚙️</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" width="52" alt="VS Code" />
 </p>
 
-<p align="center"><strong>Design Tools</strong></p>
+<p align="center"><strong>Design Tools 🎨</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" width="52" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="52" alt="Canva" />
@@ -133,11 +133,11 @@
 
 ---
 
-<h2 align="center">Certifications</h2>
+<h2 align="center">Certifications 🏅</h2>
 
 <p align="center">
   <a href="https://www.udemy.com/certificate/UC-f58ac080-5874-4f57-8d42-8cae45338b45/" target="_blank">
-    <img src="https://img.shields.io/badge/Mastering%20Data%20Structures%20&%20Algorithms%20using%20C%20and%20C++-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy DSA Certificate" />
+    <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms%20using%20C/C++-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy DSA Certificate" />
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/certificates/ae42e512d690" target="_blank">
@@ -151,7 +151,7 @@
 
 ---
 
-<h2 align="center">Projects & Repositories</h2>
+<h2 align="center">Projects & Repositories 📂</h2>
 
 <table align="center">
 <tr>
@@ -211,7 +211,7 @@ It includes NumPy, Pandas, Matplotlib, Seaborn, Streamlit, and Flask-based web a
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics 📊</h2>
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=jagratadeb&border_radius=5&custom_title=JAGRATA+DEB+%7C+PROFILE+SUMMARY&size=compact&order=grade%2Ccommits%2Chours%2Cweek%2Ctrend%2Cavg%2Ccontributions%2Cprs%2Cissues%2Cstars%2Cstreak%2Cactive_day%2Crepos%2Cfollowers" alt="GitHub profile summary" />
@@ -223,7 +223,7 @@ It includes NumPy, Pandas, Matplotlib, Seaborn, Streamlit, and Flask-based web a
 
 ---
 
-<h2 align="center">Time Spent Coding</h2>
+<h2 align="center">Time Spent Coding ⏱️</h2>
 
 <p align="center">
   <strong>📅 WakaTime stats tracked since Friday, 30 May 2025</strong>
@@ -235,7 +235,7 @@ It includes NumPy, Pandas, Matplotlib, Seaborn, Streamlit, and Flask-based web a
 
 ---
 
-<h2 align="center">Quote</h2>
+<h2 align="center">Quote 💡</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer quote" />
@@ -243,7 +243,7 @@ It includes NumPy, Pandas, Matplotlib, Seaborn, Streamlit, and Flask-based web a
 
 ---
 
-<h2 align="center">Connect</h2>
+<h2 align="center">Connect 🤝</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jagratadeb" target="_blank">
