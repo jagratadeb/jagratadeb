@@ -14,7 +14,7 @@
 <h2 align="center">About Me 👨‍💻</h2>
 
 <p align="center">
-  I am a Computer Science and Engineering student at KIIT University, currently building a strong foundation in software engineering, data structures and algorithms, full-stack web development, system design, artificial intelligence, and machine learning.
+  I am a Computer Science and Engineering student at KIIT University, currently building a strong foundation in software engineering, data structures and algorithms, full-stack web development, artificial intelligence, and machine learning.
 </p>
 
 <p align="center">
@@ -59,8 +59,8 @@
 | 🎯 Areas of Focus | 📚 Currently Learning |
 | --- | --- |
 | 🧩 Data Structures & Algorithms | 🧠 Problem Solving |
-| 🌐 Full-Stack Web Development | 🏗️ High-Level System Design |
-| 🤖 Machine Learning | ✨ Artificial Intelligence |
+| 🌐 Full-Stack Web Development |✨ Artificial Intelligence  |
+| 🤖 Machine Learning |  |
 
 ---
 
