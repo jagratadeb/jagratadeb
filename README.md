@@ -21,6 +21,10 @@
   I enjoy solving problems, building practical projects, and continuously improving my technical depth through hands-on learning.
 </p>
 
+<p align="center">
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=jagratadeb&theme=juicyfresh">
+</p>
+
 <h2 align="center">Education 🎓</h2>
 
 <p align="center">
