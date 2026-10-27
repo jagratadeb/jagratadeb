@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=jagratadeb&theme=juicyfresh">
+<img src="https://github-trophy-jagratadeb.vercel.app/?username=jagratadeb&theme=juicyfresh&title=-MultiLanguage">
 </p>
 
 <h2 align="center">Education 🎓</h2>
