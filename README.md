@@ -58,13 +58,13 @@
 
 ---
 
-<h2 align="center"> Current Focus 🎯</h2>
+<h2 align="center">Current Focus 🎯</h2>
 
 | 🎯 Areas of Focus | 📚 Currently Learning |
 | --- | --- |
 | 🧩 Data Structures & Algorithms | 🧠 Problem Solving |
-| 🌐 Full-Stack Web Development |✨ Artificial Intelligence  |
-| 🤖 Machine Learning |  |
+| 🌐 Full-Stack Development | ✨ Artificial Intelligence |
+| 🤖 Low-Level Design | 📃 Tech Blogs |
 
 ---
 
@@ -79,7 +79,7 @@
   <img src="https://skillicons.dev/icons?i=cs" width="52" alt="C#" />
 </p>
 
-<p align="center"><strong>Web Development Frameworks 🌐</strong></p>
+<p align="center"><strong>Web Development & Frameworks 🌐</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="52" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" width="52" alt="CSS3" />
@@ -135,7 +135,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="52" alt="Canva" />
 </p>
 
-> **Note:** The technologies listed above represent tools and frameworks I have used at different stages of my development journey.
+> [!NOTE]
+> The technologies listed above represent tools and frameworks I have used at different stages of my development journey.
 
 ---
 
@@ -143,23 +144,142 @@
 
 <p align="center">
   <a href="https://www.udemy.com/certificate/UC-f58ac080-5874-4f57-8d42-8cae45338b45/" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms%20using%20C/C++-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy DSA Certificate" />
+    <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms%20using%20C/C++-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy DSA Certificate"/>
+  </a>
+  &nbsp;
+  <a href="https://www.oneroadmap.io/skills/js/certificate/CERT-D92C1E87" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-OneRoadmap-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="OneRoadmap JavaScript Certificate" />
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/certificates/ae42e512d690" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20(Intermediate)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank SQL Intermediate Certificate" />
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/certificates/c956fe5b04c6" target="_blank">
-    <img src="https://img.shields.io/badge/Software%20Engineer%20Intern-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Software Engineer Intern Certificate" />
+  <a href="https://www.coursera.org/account/accomplishments/verify/QZAL0N5NPLJT" target="_blank">
+    <img src="https://img.shields.io/badge/SAP%20Professional%20Fundamentals-Coursera-0056D2?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Professional Fundamentals" />
+  </a>
+  &nbsp;
+  <a href="https://www.coursera.org/account/accomplishments/verify/WLU4PO9VB8NS" target="_blank">
+    <img src="https://img.shields.io/badge/Designing%20an%20SAP%20Solution-Coursera-0056D2?style=for-the-badge&logo=sap&logoColor=white" alt="Designing an SAP Solution" />
+  </a>
+  &nbsp;
+  <a href="https://www.coursera.org/account/accomplishments/verify/6Z6OXD57SYVP" target="_blank">
+    <img src="https://img.shields.io/badge/IBM%20Generative%20AI%20Prompt%20Engineering-IBM-0056D2?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Generative AI Prompt Engineering" />
   </a>
 </p>
+
+<p align="center"><strong>Featured certifications for software engineering, problem solving, AI, and consulting</strong></p>
+
+<details>
+<summary><strong>Programming & Software Development</strong></summary>
+
+- [Python Essentials 1](https://www.credly.com/badges/ee0fd2fd-032d-4ed5-b3cf-51151c8d6960/linked_in_profile) — Cisco
+- [Python Essentials 2](https://www.credly.com/badges/3487b8fa-3cf3-4398-8f32-484d3a7ae45d/linked_in_profile) — Cisco
+- [Foundational C# with Microsoft Certification Exam](https://www.freecodecamp.org/certification/jagratadeb/foundational-c-sharp-with-microsoft) — Microsoft
+- [JavaScript Certified](https://www.oneroadmap.io/skills/js/certificate/CERT-D92C1E87) — OneRoadmap
+
+</details>
+
+<details>
+<summary><strong>Problem Solving & Data Structures</strong></summary>
+
+- [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/certificate/UC-f58ac080-5874-4f57-8d42-8cae45338b45/) — Udemy
+- [SQL (Intermediate)](https://www.hackerrank.com/certificates/ae42e512d690) — HackerRank
+- [SQL (Basic)](https://www.hackerrank.com/certificates/c66463fd84f8) — HackerRank
+
+</details>
+
+<details>
+<summary><strong>AI & Data Science</strong></summary>
+
+- Apply AI: Analyze Customer Reviews — Cisco
+- Data Analytics Essentials — Cisco
+- Introduction to Data Science — Cisco
+- Introduction to Modern AI — Cisco
+- [IBM Generative AI: Introduction and Application](https://www.coursera.org/account/accomplishments/verify/8312ZKL5G1PF) — Coursera
+- [IBM Generative AI Prompt Engineering](https://www.coursera.org/account/accomplishments/verify/6Z6OXD57SYVP) — Coursera
+- [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/AU8YYE0V7PE2) — Coursera
+
+</details>
+
+<details>
+<summary><strong>Business, SAP & Professional Development</strong></summary>
+
+- [Business Analytics for Decision Making]() — Coursera
+- [Strategy and Game Theory for Management]() — Coursera
+- [Designing an SAP Solution]() — Coursera
+- [SAP Customer Engagement and Discovery]() — Coursera
+- [SAP Professional Fundamentals]() — Coursera
+- [Understanding the Enterprise Systems Environment]() — Coursera
+
+</details>
+
 
 ---
 
 <h2 align="center">Projects & Repositories 📂</h2>
 
 <table align="center">
+<tr>
+<td width="100%">
+
+### FiveQ
+
+<img src="https://img.shields.io/badge/AI%20Quiz%20Platform-4285F4?style=flat&logo=google&logoColor=white" alt="FiveQ AI Quiz Platform" />
+
+An AI-powered quiz platform that generates topic-based multiple-choice quizzes using the Google Gemini API.
+
+Built with Node.js, Express, React, Vite, and JSX. It includes configurable difficulty and quiz length selectors, quiz history with localStorage, instant scoring, detailed explanations, responsive UI, and caching to reduce API calls.
+
+<a href="https://ai-quiz-fiveq.vercel.app/" target="_blank">View FiveQ Live Demo</a>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### Pneumonia Detection
+
+<img src="https://img.shields.io/badge/Machine%20Learning%20%2F%20Deep%20Learning-FF6F00?style=flat&logo=python&logoColor=white" alt="Pneumonia Detection Machine Learning Project" />
+
+An open-source machine learning and deep learning project for pneumonia detection using chest X-ray datasets.
+
+It explores KNN, SVM, ResNet, and VGG16 models, achieving up to 99% accuracy while enabling researchers to adapt the repository for healthcare applications.
+
+<a href="https://github.com/jagratadeb/pneumonia-detection-minor-project" target="_blank">View Pneumonia Detection</a>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### LearnNodeJS
+
+<img src="https://img.shields.io/badge/Backend%20Development-339933?style=flat&logo=node.js&logoColor=white" alt="LearnNodeJS Backend Development" />
+
+A hands-on backend development repository covering Express.js, REST APIs, JWT authentication, Socket.IO, and MongoDB.
+
+It includes API testing with Requestly and explores deployment and scalability concepts using Nginx and the Serverless Framework.
+
+<a href="https://github.com/jagratadeb/LearnNodeJS" target="_blank">View LearnNodeJS</a>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### Vector-DB with C++
+
+<img src="https://img.shields.io/badge/C%2B%2B%20Vector%20Search%20Engine-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++ Vector Search Engine" />
+
+A simulated vector database engine built with C++ and an HTTP API for experimenting with vector database behavior.
+
+It features multithreaded, memory-efficient indexing and nearest-neighbor search using HNSW and KD-Tree approaches.
+
+<a href="https://github.com/jagratadeb/Vector-DB-with-CPP" target="_blank">View Vector-DB with C++</a>
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
